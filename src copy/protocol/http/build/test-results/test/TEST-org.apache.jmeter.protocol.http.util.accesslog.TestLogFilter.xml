@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.protocol.http.util.accesslog.TestLogFilter" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:40" hostname="FI-SWF-MAC-0005" time="0.007">
+  <properties/>
+  <testcase name="testExcludeFiles()" classname="org.apache.jmeter.protocol.http.util.accesslog.TestLogFilter" time="0.001"/>
+  <testcase name="testConstruct()" classname="org.apache.jmeter.protocol.http.util.accesslog.TestLogFilter" time="0.0"/>
+  <testcase name="testExcludePattern()" classname="org.apache.jmeter.protocol.http.util.accesslog.TestLogFilter" time="0.001"/>
+  <testcase name="testIncludeFiles()" classname="org.apache.jmeter.protocol.http.util.accesslog.TestLogFilter" time="0.001"/>
+  <testcase name="testReplaceExtension()" classname="org.apache.jmeter.protocol.http.util.accesslog.TestLogFilter" time="0.0"/>
+  <testcase name="testIncludePattern()" classname="org.apache.jmeter.protocol.http.util.accesslog.TestLogFilter" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

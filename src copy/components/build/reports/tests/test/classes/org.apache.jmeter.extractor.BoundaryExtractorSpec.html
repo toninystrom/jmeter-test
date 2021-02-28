@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="x-ua-compatible" content="IE=edge"/>
+<title>Test results - BoundaryExtractorSpec</title>
+<link href="../css/base-style.css" rel="stylesheet" type="text/css"/>
+<link href="../css/style.css" rel="stylesheet" type="text/css"/>
+<script src="../js/report.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="content">
+<h1>BoundaryExtractorSpec</h1>
+<div class="breadcrumbs">
+<a href="../index.html">all</a> &gt; 
+<a href="../packages/org.apache.jmeter.extractor.html">org.apache.jmeter.extractor</a> &gt; BoundaryExtractorSpec</div>
+<div id="summary">
+<table>
+<tr>
+<td>
+<div class="summaryGroup">
+<table>
+<tr>
+<td>
+<div class="infoBox" id="tests">
+<div class="counter">43</div>
+<p>tests</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="failures">
+<div class="counter">0</div>
+<p>failures</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="ignored">
+<div class="counter">0</div>
+<p>ignored</p>
+</div>
+</td>
+<td>
+<div class="infoBox" id="duration">
+<div class="counter">0.251s</div>
+<p>duration</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</td>
+<td>
+<div class="infoBox success" id="successRate">
+<div class="percent">100%</div>
+<p>successful</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div id="tabs">
+<ul class="tabLinks">
+<li>
+<a href="#tab0">Tests</a>
+</li>
+</ul>
+<div id="tab0" class="tab">
+<h2>Tests</h2>
+<table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Duration</th>
+<th>Result</th>
+</tr>
+</thead>
+<tr>
+<td class="success">Extract, where pattern does not exist in the stream, with matchNumber=-1 returns an empty list</td>
+<td class="success">0.002s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern does not exist in the stream, with matchNumber=0 returns an empty list</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern does not exist in the stream, with matchNumber=1 returns an empty list</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern does not exist in the stream, with matchNumber=100 returns an empty list</td>
+<td class="success">0.002s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern does not exist in the stream, with matchNumber=2 returns an empty list</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern does not exist, with matchNumber=-1 returns an empty list</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern does not exist, with matchNumber=0 returns an empty list</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern does not exist, with matchNumber=1 returns an empty list</td>
+<td class="success">0.003s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern does not exist, with matchNumber=100 returns an empty list</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern does not exist, with matchNumber=2 returns an empty list</td>
+<td class="success">0.003s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern exists in the stream, with matchNumber=-1 from #Error:occurances returns [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]</td>
+<td class="success">0.009s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern exists in the stream, with matchNumber=-1 from #Error:occurances returns [1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2]</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern exists in the stream, with matchNumber=0 from #Error:occurances returns [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern exists in the stream, with matchNumber=1 from #Error:occurances returns [1]</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern exists in the stream, with matchNumber=1 from #Error:occurances returns [1]</td>
+<td class="success">0.003s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern exists in the stream, with matchNumber=10 from #Error:occurances returns [1]</td>
+<td class="success">0.002s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern exists in the stream, with matchNumber=11 from #Error:occurances returns []</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern exists in the stream, with matchNumber=2 from #Error:occurances returns [2]</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern exists in the stream, with matchNumber=3 from #Error:occurances returns [3]</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern exists, with matchNumber=-1 from #Error:occurences returns [1, 2]</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern exists, with matchNumber=-1 from #Error:occurences returns [1]</td>
+<td class="success">0.114s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern exists, with matchNumber=0 from #Error:occurences returns [1]</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern exists, with matchNumber=1 from #Error:occurences returns [1]</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern exists, with matchNumber=1 from #Error:occurences returns [1]</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern exists, with matchNumber=2 from #Error:occurences returns [2]</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern exists, with matchNumber=2 from #Error:occurences returns []</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Extract, where pattern exists, with matchNumber=3 from #Error:occurences returns [3]</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">IllegalArgumentException when name (null) is null</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">extract all from an empty variable returns no results</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">extract all matches from variable input</td>
+<td class="success">0.002s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">extract random from variable returns one of the matches</td>
+<td class="success">0.071s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">matching only on left boundary returns default</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">matching only on right boundary returns default</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">not allowing blank default value returns null upon no matches</td>
+<td class="success">0s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">previous extractions are cleared</td>
+<td class="success">0.006s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">variables from a previous extraction are removed</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">when 'default empty value' is true the default value is allowed to be empty</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">when default value is empty but not allowed null is returned</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">with no previous results result is null</td>
+<td class="success">0.002s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">with no sub-samples parent and all scope return data but children scope does not</td>
+<td class="success">0.001s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">with non-existent variable result is null</td>
+<td class="success">0.002s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">with sub-samples parent, all and children scope return expected data</td>
+<td class="success">0.008s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">with sub-samples parent, all and children scope return expected item</td>
+<td class="success">0.007s</td>
+<td class="success">passed</td>
+</tr>
+</table>
+</div>
+</div>
+<div id="footer">
+<p>
+<div>
+<label class="hidden" id="label-for-line-wrapping-toggle" for="line-wrapping-toggle">Wrap lines
+<input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
+</label>
+</div>Generated by 
+<a href="http://www.gradle.org">Gradle 6.8.1</a> at 28 Feb 2021, 13.36.10</p>
+</div>
+</div>
+</body>
+</html>

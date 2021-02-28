@@ -1,0 +1,14 @@
+org/apache/jmeter/examples/testbeans/example2/Example2BeanInfo.java
+ org.apache.jmeter.examples.testbeans.example2.Example2BeanInfo
+org/apache/jmeter/examples/testbeans/example3/Example3BeanInfo.java
+ org.apache.jmeter.examples.testbeans.example3.Example3BeanInfo
+org/apache/jmeter/examples/sampler/ExampleSampler.java
+ org.apache.jmeter.examples.sampler.ExampleSampler
+org/apache/jmeter/examples/testbeans/example3/Example3.java
+ org.apache.jmeter.examples.testbeans.example3.Example3
+org/apache/jmeter/examples/testbeans/example2/Example2.java
+ org.apache.jmeter.examples.testbeans.example2.Example2
+org/apache/jmeter/examples/testbeans/example1/Example1.java
+ org.apache.jmeter.examples.testbeans.example1.Example1
+org/apache/jmeter/examples/sampler/gui/ExampleSamplerGui.java
+ org.apache.jmeter.examples.sampler.gui.ExampleSamplerGui

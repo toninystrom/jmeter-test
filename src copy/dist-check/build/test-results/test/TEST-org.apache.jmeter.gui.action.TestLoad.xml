@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.gui.action.TestLoad" tests="83" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:39:26" hostname="FI-SWF-MAC-0005" time="0.535">
+  <properties/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/Bug56811.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.018"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/InterleaveTestPlan.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/GuiTest.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.008"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/SlowCharsFeature.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.01"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/Bug50898.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/OnceOnlyTestPlan.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/GenTest3_0.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.024"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/Modification Manager.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/SimpleTestPlan.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/AssertionTestPlan.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/HTMLParserTestFile_2.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/SavedGuiTest.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.006"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/TestKeepAlive.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.003"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/GenTest251.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.019"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/TestSchedulerWithTimer.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/GenTest26.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.02"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/load_bug_list.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.003"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/GuiTest231.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.019"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/BatchTestLocal.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.01"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/Bug55375.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.002"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/TestDisable.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.002"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/GenTest27.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.016"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/GuiTest231_original.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.019"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/GenTest25.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.018"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/InterleaveTestPlan2.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/Bug50898_inc.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/Bug54685.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/GenTest24.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.021"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/JMS_TESTS.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.007"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/Test Plan_out.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.006"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/Bug56243.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.003"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/GenTest231.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.016"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/Bug47165.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.003"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/TestCookieManager.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.002"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/TestRedirectionPolicies.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.002"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/SavedGenTest210.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.019"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/BUG_62847.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.002"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/GenTest22.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.018"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/GenTest27_original.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.017"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/Http4ImplPreemptiveBasicAuth.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.003"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/proxy.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/GenTest2_13.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.02"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/Bug52968.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.008"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/HeaderManagerTestPlan.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/TestResultStatusAction.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.002"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/SavedGuiTest231.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.015"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/JDBC_TESTS.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.004"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/GenTest210.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.014"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/OS_TESTS.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.002"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/SavedGenTest2_13.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.034"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/RenderTreeTest.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.003"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/SavedGenTest3_0.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.016"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/Http4ImplDigestAuth.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.002"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/TEST_HTTPS.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/ProxyServerTestPlan.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/TEST_HTTP.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.006"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/GuiTest_original.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.006"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/TestHeaderManager.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.002"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/SavedGenTest27.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.017"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/Bug62239.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.003"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/TCP_TESTS.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.002"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/IfTest.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/Load_JMeter_Page.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/ResponseDecompression.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/LoopTestPlan.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/AuthManagerTestPlan.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/bin/testfiles/FTP_TESTS.jmx testfiles" classname="org.apache.jmeter.gui.action.TestLoad" time="0.002"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/xdocs/demos/InterleaveTestPlan.jmx demos" classname="org.apache.jmeter.gui.action.TestLoad" time="0.002"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/xdocs/demos/OnceOnlyTestPlan.jmx demos" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/xdocs/demos/SimpleTestPlan.jmx demos" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/xdocs/demos/AssertionTestPlan.jmx demos" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/xdocs/demos/forEachTestPlan.jmx demos" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/xdocs/demos/InterleaveTestPlan2.jmx demos" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/xdocs/demos/URLRewritingExample.jmx demos" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/xdocs/demos/ForEachTest2.jmx demos" classname="org.apache.jmeter.gui.action.TestLoad" time="0.002"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/xdocs/demos/RegEx-User-Parameters.jmx demos" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/xdocs/demos/HeaderManagerTestPlan.jmx demos" classname="org.apache.jmeter.gui.action.TestLoad" time="0.0"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/xdocs/demos/ProxyServerTestPlan.jmx demos" classname="org.apache.jmeter.gui.action.TestLoad" time="0.0"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/xdocs/demos/SimpleGraphQLTestPlan.jmx demos" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/xdocs/demos/JDBC-Pre-Post-Processor.jmx demos" classname="org.apache.jmeter.gui.action.TestLoad" time="0.002"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/xdocs/demos/JMSPointToPoint.jmx demos" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/xdocs/demos/LoopTestPlan.jmx demos" classname="org.apache.jmeter.gui.action.TestLoad" time="0.001"/>
+  <testcase name="checkTestFile /Users/toninystrom/School/SEM/jmeter2/jmeter/xdocs/demos/AuthManagerTestPlan.jmx demos" classname="org.apache.jmeter.gui.action.TestLoad" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

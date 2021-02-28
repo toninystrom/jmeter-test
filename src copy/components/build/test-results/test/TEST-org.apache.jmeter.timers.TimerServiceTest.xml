@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.timers.TimerServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:35:52" hostname="FI-SWF-MAC-0005" time="0.022">
+  <properties/>
+  <testcase name="testNegativeEndTime()" classname="org.apache.jmeter.timers.TimerServiceTest" time="0.005"/>
+  <testcase name="testBigInitialDelayAndWait()" classname="org.apache.jmeter.timers.TimerServiceTest" time="0.015"/>
+  <testcase name="testSmallInitialDelay()" classname="org.apache.jmeter.timers.TimerServiceTest" time="0.001"/>
+  <testcase name="testBigInitialDelayAndDontWait()" classname="org.apache.jmeter.timers.TimerServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.functions.IterationCounterSpec" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:24" hostname="FI-SWF-MAC-0005" time="0.43">
+  <properties/>
+  <testcase name="Counter per thread counts for each thread" classname="org.apache.jmeter.functions.IterationCounterSpec" time="0.257"/>
+  <testcase name="global Counter counts for all threads" classname="org.apache.jmeter.functions.IterationCounterSpec" time="0.173"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

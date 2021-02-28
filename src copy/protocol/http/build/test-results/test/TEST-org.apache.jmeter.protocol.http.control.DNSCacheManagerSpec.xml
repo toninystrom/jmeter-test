@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.protocol.http.control.DNSCacheManagerSpec" tests="12" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:37:00" hostname="FI-SWF-MAC-0005" time="0.361">
+  <properties/>
+  <testcase name="A custom resolver with one host will resolve that host" classname="org.apache.jmeter.protocol.http.control.DNSCacheManagerSpec" time="0.157"/>
+  <testcase name="A custom resolver with one host and an invalid DNS server will still resolve that host" classname="org.apache.jmeter.protocol.http.control.DNSCacheManagerSpec" time="0.011"/>
+  <testcase name="A custom resolver with one host with many addresses will resolve all addresses for that host" classname="org.apache.jmeter.protocol.http.control.DNSCacheManagerSpec" time="0.001"/>
+  <testcase name="Clear removes custom resolver status and any added hosts" classname="org.apache.jmeter.protocol.http.control.DNSCacheManagerSpec" time="0.006"/>
+  <testcase name="A custom resolver with a host entry will still fall back to system lookup" classname="org.apache.jmeter.protocol.http.control.DNSCacheManagerSpec" time="0.0"/>
+  <testcase name="If using an invalid server resolve throws UnknownHostException" classname="org.apache.jmeter.protocol.http.control.DNSCacheManagerSpec" time="0.01"/>
+  <testcase name="Valid DNS resolves and caches with custom resolve true" classname="org.apache.jmeter.protocol.http.control.DNSCacheManagerSpec" time="0.142"/>
+  <testcase name="Cache should be used where entries exist" classname="org.apache.jmeter.protocol.http.control.DNSCacheManagerSpec" time="0.001"/>
+  <testcase name="set custom resolver but without an address should use system resolver" classname="org.apache.jmeter.protocol.http.control.DNSCacheManagerSpec" time="0.01"/>
+  <testcase name="Clones retain custom resolve and server info" classname="org.apache.jmeter.protocol.http.control.DNSCacheManagerSpec" time="0.007"/>
+  <testcase name="Resolve Existing Host With System Default DNS Server" classname="org.apache.jmeter.protocol.http.control.DNSCacheManagerSpec" time="0.004"/>
+  <testcase name="Resolve Non-existing Host With System Default DNS Server" classname="org.apache.jmeter.protocol.http.control.DNSCacheManagerSpec" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

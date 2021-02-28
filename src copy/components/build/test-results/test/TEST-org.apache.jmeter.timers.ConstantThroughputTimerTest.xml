@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.timers.ConstantThroughputTimerTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:35:49" hostname="FI-SWF-MAC-0005" time="2.209">
+  <properties/>
+  <testcase name="testTimerBSH()" classname="org.apache.jmeter.timers.ConstantThroughputTimerTest" time="0.078"/>
+  <testcase name="testPoissonRandomTimerRangeLowerThan30()" classname="org.apache.jmeter.timers.ConstantThroughputTimerTest" time="0.021"/>
+  <testcase name="testConstantTimer()" classname="org.apache.jmeter.timers.ConstantThroughputTimerTest" time="0.0"/>
+  <testcase name="testUniformRandomTimer()" classname="org.apache.jmeter.timers.ConstantThroughputTimerTest" time="0.009"/>
+  <testcase name="testTimerJSR223Timer()" classname="org.apache.jmeter.timers.ConstantThroughputTimerTest" time="1.583"/>
+  <testcase name="testPoissonRandomTimerRangeHigherThan30()" classname="org.apache.jmeter.timers.ConstantThroughputTimerTest" time="0.002"/>
+  <testcase name="testTimer1()" classname="org.apache.jmeter.timers.ConstantThroughputTimerTest" time="0.509"/>
+  <testcase name="testTimer2()" classname="org.apache.jmeter.timers.ConstantThroughputTimerTest" time="0.0"/>
+  <testcase name="testTimer3()" classname="org.apache.jmeter.timers.ConstantThroughputTimerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

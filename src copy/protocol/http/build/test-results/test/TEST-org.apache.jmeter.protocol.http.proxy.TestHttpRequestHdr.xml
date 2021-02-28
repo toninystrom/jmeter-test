@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:35" hostname="FI-SWF-MAC-0005" time="7.564">
+  <properties/>
+  <testcase name="testParse2()" classname="org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr" time="0.097"/>
+  <testcase name="testParse1()" classname="org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr" time="0.001"/>
+  <testcase name="testEncodedArgumentsIPv6()" classname="org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr" time="3.312"/>
+  <testcase name="testGetRequestEncodingsIPv6()" classname="org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr" time="0.433"/>
+  <testcase name="testGetRequestEncodings()" classname="org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr" time="0.449"/>
+  <testcase name="testEncodedArguments()" classname="org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr" time="0.755"/>
+  <testcase name="testPostMultipartFileUpload()" classname="org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr" time="0.288"/>
+  <testcase name="testPostRequestEncodings()" classname="org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr" time="0.732"/>
+  <testcase name="testRepeatedArguments()" classname="org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr" time="0.819"/>
+  <testcase name="testPostMultipartFormData()" classname="org.apache.jmeter.protocol.http.proxy.TestHttpRequestHdr" time="0.67"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

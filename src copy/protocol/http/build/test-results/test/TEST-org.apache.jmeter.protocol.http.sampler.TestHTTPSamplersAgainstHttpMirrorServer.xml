@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" tests="53" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:59" hostname="FI-SWF-MAC-0005" time="0.346">
+  <properties/>
+  <testcase name="testPostRequest_BodyFromParameterValues -1" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.035"/>
+  <testcase name="testPostRequest_FileUpload -1" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.026"/>
+  <testcase name="testPostRequest_FormMultipart3 -1" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.019"/>
+  <testcase name="testPostRequest_BodyFromParameterValues3 -1" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.02"/>
+  <testcase name="testPostRequest_FileUpload3 -1" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.015"/>
+  <testcase name="testPostRequest_FormMultipart_0 -1" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.012"/>
+  <testcase name="testGetRequest3 -1" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.005"/>
+  <testcase name="testPutRequest_BodyFromParameterValues3 -1" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.004"/>
+  <testcase name="testGetRequest -1" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.042"/>
+  <testcase name="itemised_testGetRequest_Parameters 0" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.001"/>
+  <testcase name="itemised_testGetRequest_Parameters3 0" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.001"/>
+  <testcase name="itemised_testPostRequest_UrlEncoded 0" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.001"/>
+  <testcase name="itemised_testPostRequest_UrlEncoded3 0" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.002"/>
+  <testcase name="itemised_testGetRequest_Parameters 1" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.002"/>
+  <testcase name="itemised_testGetRequest_Parameters3 1" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.002"/>
+  <testcase name="itemised_testPostRequest_UrlEncoded 1" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.002"/>
+  <testcase name="itemised_testPostRequest_UrlEncoded3 1" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.003"/>
+  <testcase name="itemised_testGetRequest_Parameters 2" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.002"/>
+  <testcase name="itemised_testGetRequest_Parameters3 2" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.002"/>
+  <testcase name="itemised_testPostRequest_UrlEncoded 2" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.002"/>
+  <testcase name="itemised_testPostRequest_UrlEncoded3 2" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.002"/>
+  <testcase name="itemised_testGetRequest_Parameters 3" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.002"/>
+  <testcase name="itemised_testGetRequest_Parameters3 3" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.002"/>
+  <testcase name="itemised_testPostRequest_UrlEncoded 3" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.002"/>
+  <testcase name="itemised_testPostRequest_UrlEncoded3 3" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.002"/>
+  <testcase name="itemised_testGetRequest_Parameters 4" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.001"/>
+  <testcase name="itemised_testGetRequest_Parameters3 4" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.001"/>
+  <testcase name="itemised_testPostRequest_UrlEncoded 4" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.001"/>
+  <testcase name="itemised_testPostRequest_UrlEncoded3 4" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.002"/>
+  <testcase name="itemised_testGetRequest_Parameters 5" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.002"/>
+  <testcase name="itemised_testGetRequest_Parameters3 5" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.003"/>
+  <testcase name="itemised_testPostRequest_UrlEncoded 5" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.002"/>
+  <testcase name="itemised_testPostRequest_UrlEncoded3 5" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.002"/>
+  <testcase name="itemised_testGetRequest_Parameters 6" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.0"/>
+  <testcase name="itemised_testGetRequest_Parameters3 6" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.001"/>
+  <testcase name="itemised_testPostRequest_UrlEncoded 6" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.001"/>
+  <testcase name="itemised_testPostRequest_UrlEncoded3 6" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.002"/>
+  <testcase name="itemised_testGetRequest_Parameters 7" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.0"/>
+  <testcase name="itemised_testGetRequest_Parameters3 7" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.0"/>
+  <testcase name="itemised_testPostRequest_UrlEncoded 7" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.002"/>
+  <testcase name="itemised_testPostRequest_UrlEncoded3 7" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.003"/>
+  <testcase name="itemised_testGetRequest_Parameters 8" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.0"/>
+  <testcase name="itemised_testGetRequest_Parameters3 8" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.0"/>
+  <testcase name="itemised_testPostRequest_UrlEncoded 8" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.0"/>
+  <testcase name="itemised_testPostRequest_UrlEncoded3 8" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.0"/>
+  <testcase name="itemised_testGetRequest_Parameters 9" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.0"/>
+  <testcase name="itemised_testGetRequest_Parameters3 9" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.0"/>
+  <testcase name="itemised_testPostRequest_UrlEncoded 9" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.001"/>
+  <testcase name="itemised_testPostRequest_UrlEncoded3 9" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.0"/>
+  <testcase name="itemised_testGetRequest_Parameters 10" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.0"/>
+  <testcase name="itemised_testGetRequest_Parameters3 10" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.0"/>
+  <testcase name="itemised_testPostRequest_UrlEncoded 10" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.0"/>
+  <testcase name="itemised_testPostRequest_UrlEncoded3 10" classname="org.apache.jmeter.protocol.http.sampler.TestHTTPSamplersAgainstHttpMirrorServer" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.functions.XPathConcurrencyTest" tests="6" skipped="5" failures="0" errors="0" timestamp="2021-02-28T11:36:20" hostname="FI-SWF-MAC-0005" time="1.508">
+  <properties/>
+  <testcase name="[1] SAME_OBJECTS" classname="org.apache.jmeter.functions.XPathConcurrencyTest" time="1.498"/>
+  <testcase name="[2] SAME_OBJECTS" classname="org.apache.jmeter.functions.XPathConcurrencyTest" time="0.002">
+    <skipped/>
+  </testcase>
+  <testcase name="[3] DIFFERENT_OBJECTS" classname="org.apache.jmeter.functions.XPathConcurrencyTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="[4] DIFFERENT_OBJECTS" classname="org.apache.jmeter.functions.XPathConcurrencyTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="[5] SAME_OBJECTS" classname="org.apache.jmeter.functions.XPathConcurrencyTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="[6] DIFFERENT_OBJECTS" classname="org.apache.jmeter.functions.XPathConcurrencyTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

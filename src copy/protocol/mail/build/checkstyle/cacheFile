@@ -1,0 +1,19 @@
+#Sun Feb 28 13:26:53 EET 2021
+configuration*?=DF89F7014521A63DFA871765A69E68F1650F90D6
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/mail/src/main/java/org/apache/jmeter/protocol/smtp/sampler/SmtpSampler.java=1613578446134
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/mail/src/main/java/org/apache/jmeter/protocol/mail/sampler/MailFileFolder.java=1613578446132
+module-resource*?\:file\:/Users/toninystrom/School/SEM/jmeter2/jmeter/config/checkstyle/java.header.regex=57989901794549ED71AB4338640C5777F40CBE41
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/mail/src/main/java/org/apache/jmeter/protocol/smtp/sampler/gui/SecuritySettingsPanel.java=1613578446135
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/mail/src/test/java/org/apache/jmeter/protocol/mail/sampler/TestMailReaderSampler.java=1613578446138
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/mail/src/main/java/org/apache/jmeter/protocol/smtp/sampler/protocol/LocalTrustStoreSSLSocketFactory.java=1613578446136
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/mail/src/test/java/org/apache/jmeter/resources/ResourceKeyUsageTestMail.java=1613578446138
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/mail/src/main/java/org/apache/jmeter/protocol/smtp/sampler/gui/SmtpSamplerGui.java=1613578446136
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/mail/src/main/java/org/apache/jmeter/protocol/mail/sampler/gui/MailReaderSamplerGui.java=1613578446134
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/mail/src/main/java/org/apache/jmeter/protocol/smtp/sampler/protocol/SendMailCommand.java=1613578446136
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/mail/src/main/java/org/apache/jmeter/protocol/mail/sampler/MailReaderSampler.java=1613578446133
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/mail/src/main/java/org/apache/jmeter/protocol/smtp/sampler/protocol/TrustAllSSLSocketFactory.java=1613578446137
+module-resource*?\:/Users/toninystrom/School/SEM/jmeter2/jmeter/config/checkstyle/checkstyle-suppressions.xml=6D51F3333309D6C31048072255D74E7EE3920DB0
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/mail/src/main/java/org/apache/jmeter/protocol/smtp/sampler/protocol/SynchronousTransportListener.java=1613578446136
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/mail/src/main/java/org/apache/jmeter/protocol/mail/sampler/MailFileStore.java=1613578446133
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/mail/src/main/java/org/apache/jmeter/protocol/smtp/sampler/gui/SmtpPanel.java=1613578446135
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/mail/src/main/java/org/apache/jmeter/protocol/mail/sampler/MailFileMessage.java=1613578446133

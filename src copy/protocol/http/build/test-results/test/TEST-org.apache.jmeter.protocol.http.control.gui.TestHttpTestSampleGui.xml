@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.protocol.http.control.gui.TestHttpTestSampleGui" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:53" hostname="FI-SWF-MAC-0005" time="0.032">
+  <properties/>
+  <testcase name="testCloneSampler()" classname="org.apache.jmeter.protocol.http.control.gui.TestHttpTestSampleGui" time="0.032"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,7 @@
+org/apache/jmeter/protocol/java/control/gui/ClassFilter.java
+ org.apache.jmeter.protocol.java.control.gui.ClassFilter
+org/apache/jmeter/protocol/java/sampler/JUnitSampler.java
+ org.apache.jmeter.protocol.java.sampler.JUnitSampler
+ org.apache.jmeter.protocol.java.sampler.JUnitSampler$AnnotatedTestCase
+org/apache/jmeter/protocol/java/control/gui/JUnitTestSamplerGui.java
+ org.apache.jmeter.protocol.java.control.gui.JUnitTestSamplerGui

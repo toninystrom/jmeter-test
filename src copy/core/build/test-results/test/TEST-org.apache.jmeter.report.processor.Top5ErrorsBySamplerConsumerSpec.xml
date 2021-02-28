@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.report.processor.Top5ErrorsBySamplerConsumerSpec" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:03" hostname="FI-SWF-MAC-0005" time="0.649">
+  <properties/>
+  <testcase name="summary info data updated with non-controller passing sample" classname="org.apache.jmeter.report.processor.Top5ErrorsBySamplerConsumerSpec" time="0.594"/>
+  <testcase name="summary info data updated with non-controller failing sample" classname="org.apache.jmeter.report.processor.Top5ErrorsBySamplerConsumerSpec" time="0.009"/>
+  <testcase name="key from sample is name" classname="org.apache.jmeter.report.processor.Top5ErrorsBySamplerConsumerSpec" time="0.002"/>
+  <testcase name="there are 3 + 2n expected results title columns" classname="org.apache.jmeter.report.processor.Top5ErrorsBySamplerConsumerSpec" time="0.041"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.35">
+<file name="/Users/toninystrom/School/SEM/jmeter2/jmeter/src/examples/src/main/java/org/apache/jmeter/examples/sampler/ExampleSampler.java">
+</file>
+<file name="/Users/toninystrom/School/SEM/jmeter2/jmeter/src/examples/src/main/java/org/apache/jmeter/examples/sampler/gui/ExampleSamplerGui.java">
+</file>
+<file name="/Users/toninystrom/School/SEM/jmeter2/jmeter/src/examples/src/main/java/org/apache/jmeter/examples/testbeans/example1/Example1.java">
+</file>
+<file name="/Users/toninystrom/School/SEM/jmeter2/jmeter/src/examples/src/main/java/org/apache/jmeter/examples/testbeans/example2/Example2.java">
+</file>
+<file name="/Users/toninystrom/School/SEM/jmeter2/jmeter/src/examples/src/main/java/org/apache/jmeter/examples/testbeans/example2/Example2BeanInfo.java">
+</file>
+<file name="/Users/toninystrom/School/SEM/jmeter2/jmeter/src/examples/src/main/java/org/apache/jmeter/examples/testbeans/example3/Example3.java">
+</file>
+<file name="/Users/toninystrom/School/SEM/jmeter2/jmeter/src/examples/src/main/java/org/apache/jmeter/examples/testbeans/example3/Example3BeanInfo.java">
+</file>
+</checkstyle>

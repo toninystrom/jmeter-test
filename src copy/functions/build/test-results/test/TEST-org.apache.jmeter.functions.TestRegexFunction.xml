@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.functions.TestRegexFunction" tests="22" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:22" hostname="FI-SWF-MAC-0005" time="0.224">
+  <properties/>
+  <testcase name="testVariableExtractionFromVariable()" classname="org.apache.jmeter.functions.TestRegexFunction" time="0.003"/>
+  <testcase name="testVariableExtraction()" classname="org.apache.jmeter.functions.TestRegexFunction" time="0.001"/>
+  <testcase name="testExtractionIndexTooHigh()" classname="org.apache.jmeter.functions.TestRegexFunction" time="0.001"/>
+  <testcase name="testVariableExtractionFromVariable2()" classname="org.apache.jmeter.functions.TestRegexFunction" time="0.0"/>
+  <testcase name="testVariableExtractionFromVariable3()" classname="org.apache.jmeter.functions.TestRegexFunction" time="0.0"/>
+  <testcase name="testVariableExtractionFromVariable4()" classname="org.apache.jmeter.functions.TestRegexFunction" time="0.0"/>
+  <testcase name="testVariableExtractionFromVariable5()" classname="org.apache.jmeter.functions.TestRegexFunction" time="0.0"/>
+  <testcase name="testVariableExtractionFromVariable6()" classname="org.apache.jmeter.functions.TestRegexFunction" time="0.0"/>
+  <testcase name="testVariableExtractionFromVariable7()" classname="org.apache.jmeter.functions.TestRegexFunction" time="0.001"/>
+  <testcase name="testVariableExtractionFromVariable8()" classname="org.apache.jmeter.functions.TestRegexFunction" time="0.001"/>
+  <testcase name="testVariableExtractionFromVariable9()" classname="org.apache.jmeter.functions.TestRegexFunction" time="0.001"/>
+  <testcase name="testComma()" classname="org.apache.jmeter.functions.TestRegexFunction" time="0.001"/>
+  <testcase name="testRandomExtraction()" classname="org.apache.jmeter.functions.TestRegexFunction" time="0.002"/>
+  <testcase name="testExtractionIndexNotNumeric()" classname="org.apache.jmeter.functions.TestRegexFunction" time="0.001"/>
+  <testcase name="testDefaultValue()" classname="org.apache.jmeter.functions.TestRegexFunction" time="0.002"/>
+  <testcase name="testVariableExtraction2()" classname="org.apache.jmeter.functions.TestRegexFunction" time="0.003"/>
+  <testcase name="testVariableExtraction3()" classname="org.apache.jmeter.functions.TestRegexFunction" time="0.001"/>
+  <testcase name="testVariableExtraction4()" classname="org.apache.jmeter.functions.TestRegexFunction" time="0.001"/>
+  <testcase name="testVariableExtraction5()" classname="org.apache.jmeter.functions.TestRegexFunction" time="0.001"/>
+  <testcase name="testVariableExtraction6()" classname="org.apache.jmeter.functions.TestRegexFunction" time="0.183"/>
+  <testcase name="testVariableExtraction1a()" classname="org.apache.jmeter.functions.TestRegexFunction" time="0.007"/>
+  <testcase name="testVariableExtraction1b()" classname="org.apache.jmeter.functions.TestRegexFunction" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

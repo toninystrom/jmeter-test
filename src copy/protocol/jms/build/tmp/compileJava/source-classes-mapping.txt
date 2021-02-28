@@ -1,0 +1,64 @@
+org/apache/jmeter/protocol/jms/client/Publisher.java
+ org.apache.jmeter.protocol.jms.client.Publisher
+org/apache/jmeter/protocol/jms/sampler/FixedQueueExecutor.java
+ org.apache.jmeter.protocol.jms.sampler.FixedQueueExecutor
+org/apache/jmeter/protocol/jms/sampler/render/FileKey.java
+ org.apache.jmeter.protocol.jms.sampler.render.FileKey
+org/apache/jmeter/protocol/jms/sampler/QueueExecutor.java
+ org.apache.jmeter.protocol.jms.sampler.QueueExecutor
+org/apache/jmeter/protocol/jms/sampler/render/Renderers.java
+ org.apache.jmeter.protocol.jms.sampler.render.Renderers
+org/apache/jmeter/protocol/jms/sampler/MessageAdmin.java
+ org.apache.jmeter.protocol.jms.sampler.MessageAdmin
+ org.apache.jmeter.protocol.jms.sampler.MessageAdmin$PlaceHolder
+org/apache/jmeter/protocol/jms/sampler/render/MapMessageRenderer.java
+ org.apache.jmeter.protocol.jms.sampler.render.MapMessageRenderer
+org/apache/jmeter/protocol/jms/sampler/TimeoutEnabledQueueRequestor.java
+ org.apache.jmeter.protocol.jms.sampler.TimeoutEnabledQueueRequestor
+org/apache/jmeter/protocol/jms/sampler/TemporaryQueueExecutor.java
+ org.apache.jmeter.protocol.jms.sampler.TemporaryQueueExecutor
+org/apache/jmeter/protocol/jms/sampler/render/BinaryMessageRenderer.java
+ org.apache.jmeter.protocol.jms.sampler.render.BinaryMessageRenderer
+org/apache/jmeter/protocol/jms/client/ReceiveSubscriber.java
+ org.apache.jmeter.protocol.jms.client.ReceiveSubscriber
+org/apache/jmeter/protocol/jms/sampler/render/package-info.java
+ org.apache.jmeter.protocol.jms.sampler.render.package-info
+org/apache/jmeter/protocol/jms/sampler/render/RendererFactory.java
+ org.apache.jmeter.protocol.jms.sampler.render.RendererFactory
+org/apache/jmeter/protocol/jms/sampler/render/MessageRenderer.java
+ org.apache.jmeter.protocol.jms.sampler.render.MessageRenderer
+org/apache/jmeter/protocol/jms/client/ClientPool.java
+ org.apache.jmeter.protocol.jms.client.ClientPool
+org/apache/jmeter/protocol/jms/client/InitialContextFactory.java
+ org.apache.jmeter.protocol.jms.client.InitialContextFactory
+org/apache/jmeter/protocol/jms/sampler/Receiver.java
+ org.apache.jmeter.protocol.jms.sampler.Receiver
+org/apache/jmeter/protocol/jms/sampler/JMSProperties.java
+ org.apache.jmeter.protocol.jms.sampler.JMSProperties
+org/apache/jmeter/protocol/jms/control/gui/JMSPropertiesPanel.java
+ org.apache.jmeter.protocol.jms.control.gui.JMSPropertiesPanel
+ org.apache.jmeter.protocol.jms.control.gui.JMSPropertiesPanel$InnerTableModel
+ org.apache.jmeter.protocol.jms.control.gui.JMSPropertiesPanel$TypeCellEditor
+org/apache/jmeter/protocol/jms/control/gui/JMSPublisherGui.java
+ org.apache.jmeter.protocol.jms.control.gui.JMSPublisherGui
+org/apache/jmeter/protocol/jms/sampler/PublisherSampler.java
+ org.apache.jmeter.protocol.jms.sampler.PublisherSampler
+org/apache/jmeter/protocol/jms/sampler/render/ObjectMessageRenderer.java
+ org.apache.jmeter.protocol.jms.sampler.render.ObjectMessageRenderer
+org/apache/jmeter/protocol/jms/Utils.java
+ org.apache.jmeter.protocol.jms.Utils
+org/apache/jmeter/protocol/jms/control/gui/JMSSubscriberGui.java
+ org.apache.jmeter.protocol.jms.control.gui.JMSSubscriberGui
+org/apache/jmeter/protocol/jms/sampler/render/TextMessageRenderer.java
+ org.apache.jmeter.protocol.jms.sampler.render.TextMessageRenderer
+org/apache/jmeter/protocol/jms/control/gui/JMSSamplerGui.java
+ org.apache.jmeter.protocol.jms.control.gui.JMSSamplerGui
+org/apache/jmeter/protocol/jms/sampler/BaseJMSSampler.java
+ org.apache.jmeter.protocol.jms.sampler.BaseJMSSampler
+org/apache/jmeter/protocol/jms/sampler/JMSProperty.java
+ org.apache.jmeter.protocol.jms.sampler.JMSProperty
+org/apache/jmeter/protocol/jms/sampler/JMSSampler.java
+ org.apache.jmeter.protocol.jms.sampler.JMSSampler
+ org.apache.jmeter.protocol.jms.sampler.JMSSampler$COMMUNICATION_STYLE
+org/apache/jmeter/protocol/jms/sampler/SubscriberSampler.java
+ org.apache.jmeter.protocol.jms.sampler.SubscriberSampler

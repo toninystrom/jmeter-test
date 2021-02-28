@@ -1,0 +1,3 @@
+org/apache/jmeter/visualizers/GenerateTreeGui.java
+ org.apache.jmeter.visualizers.GenerateTreeGui
+ org.apache.jmeter.visualizers.GenerateTreeGui$RunGUI

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.assertions.jmespath.gui.JMESPathAssertionGuiTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:01" hostname="FI-SWF-MAC-0005" time="0.271">
+  <properties/>
+  <testcase name="testInit()" classname="org.apache.jmeter.assertions.jmespath.gui.JMESPathAssertionGuiTest" time="0.029"/>
+  <testcase name="testGetStaticLabel()" classname="org.apache.jmeter.assertions.jmespath.gui.JMESPathAssertionGuiTest" time="0.022"/>
+  <testcase name="testGetLabelResource()" classname="org.apache.jmeter.assertions.jmespath.gui.JMESPathAssertionGuiTest" time="0.008"/>
+  <testcase name="testModifyTestElement()" classname="org.apache.jmeter.assertions.jmespath.gui.JMESPathAssertionGuiTest" time="0.011"/>
+  <testcase name="testConfigure()" classname="org.apache.jmeter.assertions.jmespath.gui.JMESPathAssertionGuiTest" time="0.054"/>
+  <testcase name="testCreateTestElement()" classname="org.apache.jmeter.assertions.jmespath.gui.JMESPathAssertionGuiTest" time="0.036"/>
+  <testcase name="testClearGui()" classname="org.apache.jmeter.assertions.jmespath.gui.JMESPathAssertionGuiTest" time="0.024"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

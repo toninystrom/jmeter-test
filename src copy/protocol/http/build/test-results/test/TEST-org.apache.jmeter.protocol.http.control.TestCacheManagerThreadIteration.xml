@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.protocol.http.control.TestCacheManagerThreadIteration" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:47" hostname="FI-SWF-MAC-0005" time="0.204">
+  <properties/>
+  <testcase name="testCacheControlCleared()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerThreadIteration" time="0.004"/>
+  <testcase name="testCacheManagerWhenThreadIterationIsANewUser()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerThreadIteration" time="0.001"/>
+  <testcase name="testCacheManagerWhenThreadIterationIsSameUser()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerThreadIteration" time="0.001"/>
+  <testcase name="testJmeterVariableCacheWhenThreadIterationIsANewUser()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerThreadIteration" time="0.087"/>
+  <testcase name="testJmeterVariableWhenThreadIterationIsSameUser()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerThreadIteration" time="0.105"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

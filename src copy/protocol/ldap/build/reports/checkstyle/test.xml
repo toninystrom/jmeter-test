@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.35">
+<file name="/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/ldap/src/test/java/org/apache/jmeter/protocol/ldap/config/gui/PackageTest.java">
+</file>
+<file name="/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/ldap/src/test/java/org/apache/jmeter/resources/ResourceKeyUsageTestLdap.java">
+</file>
+</checkstyle>

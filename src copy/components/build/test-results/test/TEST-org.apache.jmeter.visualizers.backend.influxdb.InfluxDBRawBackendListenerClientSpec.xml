@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.visualizers.backend.influxdb.InfluxDBRawBackendListenerClientSpec" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:06" hostname="FI-SWF-MAC-0005" time="0.266">
+  <properties/>
+  <testcase name="Default parameters contain minimum required options" classname="org.apache.jmeter.visualizers.backend.influxdb.InfluxDBRawBackendListenerClientSpec" time="0.006"/>
+  <testcase name="Provided args are used during setup" classname="org.apache.jmeter.visualizers.backend.influxdb.InfluxDBRawBackendListenerClientSpec" time="0.008"/>
+  <testcase name="OK sample data is mapped correctly to InfluxDB tags and fields" classname="org.apache.jmeter.visualizers.backend.influxdb.InfluxDBRawBackendListenerClientSpec" time="0.191"/>
+  <testcase name="Failed sample data is mapped correctly to InfluxDB tags and fields" classname="org.apache.jmeter.visualizers.backend.influxdb.InfluxDBRawBackendListenerClientSpec" time="0.0"/>
+  <testcase name="Upon handling sample result data is added to influxDBMetricsManager and written" classname="org.apache.jmeter.visualizers.backend.influxdb.InfluxDBRawBackendListenerClientSpec" time="0.058"/>
+  <testcase name="teardownTest calls destroy on influxDBMetricsManager" classname="org.apache.jmeter.visualizers.backend.influxdb.InfluxDBRawBackendListenerClientSpec" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

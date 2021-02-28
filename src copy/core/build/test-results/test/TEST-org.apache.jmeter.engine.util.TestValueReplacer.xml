@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.engine.util.TestValueReplacer" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:35:58" hostname="FI-SWF-MAC-0005" time="0.143">
+  <properties/>
+  <testcase name="testPartialWordMatchesWithoutParens()" classname="org.apache.jmeter.engine.util.TestValueReplacer" time="0.068"/>
+  <testcase name="testPartialWordMatchesWithParens()" classname="org.apache.jmeter.engine.util.TestValueReplacer" time="0.003"/>
+  <testcase name="testReverseReplacement()" classname="org.apache.jmeter.engine.util.TestValueReplacer" time="0.001"/>
+  <testcase name="testReplaceStringWithBackslash()" classname="org.apache.jmeter.engine.util.TestValueReplacer" time="0.003"/>
+  <testcase name="testReverseReplacementXml()" classname="org.apache.jmeter.engine.util.TestValueReplacer" time="0.002"/>
+  <testcase name="testReplaceFunctionWithBackslash()" classname="org.apache.jmeter.engine.util.TestValueReplacer" time="0.002"/>
+  <testcase name="testReplace()" classname="org.apache.jmeter.engine.util.TestValueReplacer" time="0.001"/>
+  <testcase name="testCompleteWordMatchesWithoutParens()" classname="org.apache.jmeter.engine.util.TestValueReplacer" time="0.052"/>
+  <testcase name="testCompleteWordMatchesWithParens()" classname="org.apache.jmeter.engine.util.TestValueReplacer" time="0.004"/>
+  <testcase name="testOverlappingMatches()" classname="org.apache.jmeter.engine.util.TestValueReplacer" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

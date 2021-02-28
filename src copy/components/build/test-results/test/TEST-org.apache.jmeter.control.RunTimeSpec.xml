@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.control.RunTimeSpec" tests="5" skipped="1" failures="0" errors="0" timestamp="2021-02-28T11:36:09" hostname="FI-SWF-MAC-0005" time="0.018">
+  <properties/>
+  <testcase name="RunTime stops within a tolerance after specified runtime" classname="org.apache.jmeter.control.RunTimeSpec" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Immediately returns null when runtime is set to 0" classname="org.apache.jmeter.control.RunTimeSpec" time="0.01"/>
+  <testcase name="Immediately returns null if only Controllers are present" classname="org.apache.jmeter.control.RunTimeSpec" time="0.007"/>
+  <testcase name="within time limit samplers are returned until empty" classname="org.apache.jmeter.control.RunTimeSpec" time="0.001"/>
+  <testcase name="RunTime immediately returns null when there are no test elements" classname="org.apache.jmeter.control.RunTimeSpec" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

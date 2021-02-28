@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.protocol.jms.sampler.render.ObjectMessageRendererTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:47" hostname="FI-SWF-MAC-0005" time="0.683">
+  <properties/>
+  <testcase name="getValueFromFile_withDefaultEncodingAndProlog()" classname="org.apache.jmeter.protocol.jms.sampler.render.ObjectMessageRendererTest" time="0.606"/>
+  <testcase name="getValueFromFile_withForcedEncoding()" classname="org.apache.jmeter.protocol.jms.sampler.render.ObjectMessageRendererTest" time="0.016"/>
+  <testcase name="getValueFromText()" classname="org.apache.jmeter.protocol.jms.sampler.render.ObjectMessageRendererTest" time="0.007"/>
+  <testcase name="getValueFromFile_inRawMode()" classname="org.apache.jmeter.protocol.jms.sampler.render.ObjectMessageRendererTest" time="0.011"/>
+  <testcase name="getValueFromFile_withDefaultEncodingAndNoProlog()" classname="org.apache.jmeter.protocol.jms.sampler.render.ObjectMessageRendererTest" time="0.023"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" tests="33" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:47" hostname="FI-SWF-MAC-0005" time="0.13">
+  <properties/>
+  <testcase name="testCookiePolicyNetscape()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.028"/>
+  <testcase name="testAddCookieFromHeaderWithWildcard2()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.002"/>
+  <testcase name="testHttpOnlyCookie()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.001"/>
+  <testcase name="testSecureCookieWithHttps()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.001"/>
+  <testcase name="testSimilarHostNames()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.003"/>
+  <testcase name="testLoad()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.004"/>
+  <testcase name="testBug56358()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.001"/>
+  <testcase name="testCookieMatching()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.0"/>
+  <testcase name="testSendCookie()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.001"/>
+  <testcase name="testNewCookie()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.001"/>
+  <testcase name="testRemoveCookie()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.001"/>
+  <testcase name="testRootPath0()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.001"/>
+  <testcase name="testRootPath1()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.001"/>
+  <testcase name="testDomainHandling()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.001"/>
+  <testcase name="testMissingPath0()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.001"/>
+  <testcase name="testMissingPath1()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.001"/>
+  <testcase name="testAddCookieFromHeaderWithWildcard()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.047"/>
+  <testcase name="testSendCookie2()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.001"/>
+  <testcase name="testDuplicateCookie()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.001"/>
+  <testcase name="testCookies1()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.009"/>
+  <testcase name="testCookies2()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.001"/>
+  <testcase name="testCookies3()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.0"/>
+  <testcase name="testCookieOrdering1()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.002"/>
+  <testcase name="testCookieOrdering2()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.001"/>
+  <testcase name="testSecureCookieWithHttp()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.002"/>
+  <testcase name="testCookiePolicyIgnore()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.001"/>
+  <testcase name="testSessionCookie()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.0"/>
+  <testcase name="testAddCookieFromHeaderWithNoWildcard()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.0"/>
+  <testcase name="testCookiePolicy2109()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.001"/>
+  <testcase name="testCookieWithEquals()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.001"/>
+  <testcase name="testCrossDomainHandling()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.001"/>
+  <testcase name="testOldCookie()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.0"/>
+  <testcase name="testDuplicateCookie2()" classname="org.apache.jmeter.protocol.http.control.TestHC4CookieManager" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

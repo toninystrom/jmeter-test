@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.gui.util.JSyntaxTextAreaTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:35:57" hostname="FI-SWF-MAC-0005" time="0.206">
+  <properties/>
+  <testcase name="testSyntaxNames()" classname="org.apache.jmeter.gui.util.JSyntaxTextAreaTest" time="0.004"/>
+  <testcase name="testSetLanguage()" classname="org.apache.jmeter.gui.util.JSyntaxTextAreaTest" time="0.202"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jorphan.util.TestJorphanUtils" tests="50" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:14" hostname="FI-SWF-MAC-0005" time="0.276">
+  <properties/>
+  <testcase name="testRightAlign()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.012"/>
+  <testcase name="testbaToByte()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.003"/>
+  <testcase name="testLeftAlign()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.001"/>
+  <testcase name="testBooleanToSTRING()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.0"/>
+  <testcase name="testReplaceValueWithNullSetterThatGetsCalled()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.06"/>
+  <testcase name="testNullifyIfEmptyTrimmed()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.001"/>
+  <testcase name="testSplitSSSEmptyDelimiter()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.005"/>
+  <testcase name="testSplitSSSMultipleDelimCharsWithEmptyValue()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.0"/>
+  <testcase name="testSplitStringStringTrueWithLeadingSplitChars()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.001"/>
+  <testcase name="testSplitSSSSingleDelimiterWithEmptyValue()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.001"/>
+  <testcase name="testEmpty()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.002"/>
+  <testcase name="testreplaceAllChars()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.002"/>
+  <testcase name="testSplitNullStringString()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.001"/>
+  <testcase name="testTrim()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.001"/>
+  <testcase name="testSplitStringStringTrueTruncate()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.005"/>
+  <testcase name="testReplaceAllWithRegexWithSearchValueContainedInReplaceValue()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.002"/>
+  <testcase name="testSplitStringStringNullWithSingleDelimiter()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.0"/>
+  <testcase name="testSplitSSSSingleDelimiterWithDefaultValue()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.0"/>
+  <testcase name="testUnsplit()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.0"/>
+  <testcase name="testSplitStringStringFalseWithLeadingSplitChars()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.0"/>
+  <testcase name="testSplitSSSMultipleDelimCharsWithDefaultValue()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.001"/>
+  <testcase name="testSplitStringStringFalseDoubledSplitChar()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.0"/>
+  <testcase name="testGetByteArraySlice()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.001"/>
+  <testcase name="testReplace1()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.001"/>
+  <testcase name="testReplace2()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.019"/>
+  <testcase name="testReplace3()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.001"/>
+  <testcase name="testReplace4()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.0"/>
+  <testcase name="testReplace5()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.0"/>
+  <testcase name="testReplace6()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.0"/>
+  <testcase name="testReplace7()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.0"/>
+  <testcase name="testReplace8()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.001"/>
+  <testcase name="testSplitStringStringTrueWithLeadingComplexSplitCharacters()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.001"/>
+  <testcase name="testGenerateRandomAlphanumericPassword20()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.029"/>
+  <testcase name="testReplaceValueWithValidValueAndValidSetter()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.002"/>
+  <testcase name="testReplaceAllWithRegex()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.001"/>
+  <testcase name="testSplitStringStringTrueDoubledSplitChar()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.0"/>
+  <testcase name="testBaToHexStringSeparator()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.001"/>
+  <testcase name="testSplitSSSWithEmptyInput()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.0"/>
+  <testcase name="testSplitStringStringFalseWithLeadingComplexSplitCharacters()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.0"/>
+  <testcase name="testbaToHexString()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.0"/>
+  <testcase name="testReplaceValueWithNullValue()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.0"/>
+  <testcase name="testSplitStringNullString()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.001"/>
+  <testcase name="testSplitStringStringNullWithMultipleDelimiter()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.0"/>
+  <testcase name="testSplitStringStringTrueWithTrailingSplitChars()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.0"/>
+  <testcase name="testSplitStringStringFalseWithTrailingSplitChars()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.0"/>
+  <testcase name="testIsBlank()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.0"/>
+  <testcase name="testSplit3()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.0"/>
+  <testcase name="testSplitSSSSameDelimiterAsDefaultValue()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.0"/>
+  <testcase name="testSplitStringStringFalseTruncate()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.0"/>
+  <testcase name="testSplitSSSWithEmptyDelimiter()" classname="org.apache.jorphan.util.TestJorphanUtils" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.protocol.mail.sampler.TestMailReaderSampler" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:37:02" hostname="FI-SWF-MAC-0005" time="2.862">
+  <properties/>
+  <testcase name="testPassCustomProperties()" classname="org.apache.jmeter.protocol.mail.sampler.TestMailReaderSampler" time="2.862"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

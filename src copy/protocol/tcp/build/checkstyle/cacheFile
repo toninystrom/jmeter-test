@@ -1,0 +1,18 @@
+#Sun Feb 28 13:27:02 EET 2021
+configuration*?=AF20347BA1381074BD89ABEDE892419BA93AA8C4
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/tcp/src/main/java/org/apache/jmeter/protocol/tcp/sampler/BinaryTCPClientImpl.java=1613578446148
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/tcp/src/main/java/org/apache/jmeter/protocol/tcp/sampler/TCPClientDecorator.java=1613578446151
+module-resource*?\:file\:/Users/toninystrom/School/SEM/jmeter2/jmeter/config/checkstyle/java.header.regex=57989901794549ED71AB4338640C5777F40CBE41
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/tcp/src/main/java/org/apache/jmeter/protocol/tcp/sampler/ReadException.java=1613578446148
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/tcp/src/test/java/org/apache/jmeter/protocol/tcp/sampler/LengthPrefixedBinaryTCPClientImplTest.java=1613578446153
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/tcp/src/test/java/org/apache/jmeter/protocol/tcp/sampler/TCPClientDecoratorTest.java=1613578446153
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/tcp/src/main/java/org/apache/jmeter/protocol/tcp/control/gui/TCPSamplerGui.java=1613578446147
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/tcp/src/main/java/org/apache/jmeter/protocol/tcp/sampler/AbstractTCPClient.java=1613578446148
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/tcp/src/main/java/org/apache/jmeter/protocol/tcp/sampler/TCPClient.java=1613578446151
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/tcp/src/main/java/org/apache/jmeter/protocol/tcp/sampler/TCPSampler.java=1613578446152
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/tcp/src/main/java/org/apache/jmeter/protocol/tcp/config/gui/TCPConfigGui.java=1613578446147
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/tcp/src/test/java/org/apache/jmeter/protocol/tcp/sampler/BinaryTCPClientImplTest.java=1613578446153
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/tcp/src/test/java/org/apache/jmeter/resources/ResourceKeyUsageTestTcp.java=1613578446153
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/tcp/src/main/java/org/apache/jmeter/protocol/tcp/sampler/TCPClientImpl.java=1613578446151
+module-resource*?\:/Users/toninystrom/School/SEM/jmeter2/jmeter/config/checkstyle/checkstyle-suppressions.xml=6D51F3333309D6C31048072255D74E7EE3920DB0
+/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/tcp/src/main/java/org/apache/jmeter/protocol/tcp/sampler/LengthPrefixedBinaryTCPClientImpl.java=1613578446148

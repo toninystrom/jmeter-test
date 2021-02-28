@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.resources.ResourceKeyUsageTestJava" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:29" hostname="FI-SWF-MAC-0005" time="0.246">
+  <properties/>
+  <testcase name="checkResourceReferences()" classname="org.apache.jmeter.resources.ResourceKeyUsageTestJava" time="0.246"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

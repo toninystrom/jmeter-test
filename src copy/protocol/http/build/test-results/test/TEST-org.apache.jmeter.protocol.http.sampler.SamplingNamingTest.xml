@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.protocol.http.sampler.SamplingNamingTest" tests="2" skipped="2" failures="0" errors="0" timestamp="2021-02-28T11:36:59" hostname="FI-SWF-MAC-0005" time="0.0">
+  <properties/>
+  <testcase name="testBug63364[Run 0: implementation:HttpClient4]" classname="org.apache.jmeter.protocol.http.sampler.SamplingNamingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testBug63364[Run 1: implementation:Java]" classname="org.apache.jmeter.protocol.http.sampler.SamplingNamingTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

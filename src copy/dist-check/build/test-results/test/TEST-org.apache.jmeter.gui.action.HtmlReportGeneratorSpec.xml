@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.gui.action.HtmlReportGeneratorSpec" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:39:27" hostname="FI-SWF-MAC-0005" time="4.322">
+  <properties/>
+  <testcase name="check if generation from csv: '#csvPath' with properties: '#userPropertiesPath' in folder: '#outputDirectoryPath' contains the expected error" classname="org.apache.jmeter.gui.action.HtmlReportGeneratorSpec" time="0.001"/>
+  <testcase name="check if generation from csv: '#csvPath' with properties: '#userPropertiesPath' in folder: '#outputDirectoryPath' contains the expected error" classname="org.apache.jmeter.gui.action.HtmlReportGeneratorSpec" time="0.001"/>
+  <testcase name="check if generation from csv: '#csvPath' with properties: '#userPropertiesPath' in folder: '#outputDirectoryPath' contains the expected error" classname="org.apache.jmeter.gui.action.HtmlReportGeneratorSpec" time="0.0"/>
+  <testcase name="check if generation from csv: '#csvPath' with properties: '#userPropertiesPath' in folder: '#outputDirectoryPath' contains the expected error" classname="org.apache.jmeter.gui.action.HtmlReportGeneratorSpec" time="0.0"/>
+  <testcase name="check if generation from csv: '#csvPath' with properties: '#userPropertiesPath' in folder: '#outputDirectoryPath' contains the expected error" classname="org.apache.jmeter.gui.action.HtmlReportGeneratorSpec" time="0.001"/>
+  <testcase name="check that report generation succeeds and statistic are generated" classname="org.apache.jmeter.gui.action.HtmlReportGeneratorSpec" time="2.859"/>
+  <testcase name="report generation fails when format does not match and error is reported" classname="org.apache.jmeter.gui.action.HtmlReportGeneratorSpec" time="1.458"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

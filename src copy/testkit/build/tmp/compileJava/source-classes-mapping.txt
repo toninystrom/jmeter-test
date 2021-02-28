@@ -1,0 +1,4 @@
+org/apache/jmeter/testkit/ResourceLocator.java
+ org.apache.jmeter.testkit.ResourceLocator
+org/apache/jmeter/testkit/BugId.java
+ org.apache.jmeter.testkit.BugId

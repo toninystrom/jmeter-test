@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.functions.TestTimeFunction" tests="15" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:23" hostname="FI-SWF-MAC-0005" time="0.106">
+  <properties/>
+  <testcase name="testDivisorNoMatch()" classname="org.apache.jmeter.functions.TestTimeFunction" time="0.0"/>
+  <testcase name="testTooMany()" classname="org.apache.jmeter.functions.TestTimeFunction" time="0.0"/>
+  <testcase name="testHMS()" classname="org.apache.jmeter.functions.TestTimeFunction" time="0.0"/>
+  <testcase name="testYMD()" classname="org.apache.jmeter.functions.TestTimeFunction" time="0.001"/>
+  <testcase name="testFixed()" classname="org.apache.jmeter.functions.TestTimeFunction" time="0.001"/>
+  <testcase name="testMixed()" classname="org.apache.jmeter.functions.TestTimeFunction" time="0.093"/>
+  <testcase name="testUSER1()" classname="org.apache.jmeter.functions.TestTimeFunction" time="0.001"/>
+  <testcase name="testUSER2()" classname="org.apache.jmeter.functions.TestTimeFunction" time="0.0"/>
+  <testcase name="testDefaultNone()" classname="org.apache.jmeter.functions.TestTimeFunction" time="0.0"/>
+  <testcase name="testDefault()" classname="org.apache.jmeter.functions.TestTimeFunction" time="0.0"/>
+  <testcase name="testDivisor()" classname="org.apache.jmeter.functions.TestTimeFunction" time="0.0"/>
+  <testcase name="testDefault1()" classname="org.apache.jmeter.functions.TestTimeFunction" time="0.0"/>
+  <testcase name="testDefault2()" classname="org.apache.jmeter.functions.TestTimeFunction" time="0.0"/>
+  <testcase name="testYMDHMS()" classname="org.apache.jmeter.functions.TestTimeFunction" time="0.001"/>
+  <testcase name="testYMDnoV()" classname="org.apache.jmeter.functions.TestTimeFunction" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

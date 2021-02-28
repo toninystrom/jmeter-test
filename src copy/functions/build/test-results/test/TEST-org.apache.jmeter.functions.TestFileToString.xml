@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.functions.TestFileToString" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:22" hostname="FI-SWF-MAC-0005" time="0.036">
+  <properties/>
+  <testcase name="testRead()" classname="org.apache.jmeter.functions.TestFileToString" time="0.027"/>
+  <testcase name="testReadError()" classname="org.apache.jmeter.functions.TestFileToString" time="0.001"/>
+  <testcase name="testParameterCount()" classname="org.apache.jmeter.functions.TestFileToString" time="0.001"/>
+  <testcase name="testReadWithEncodingAndVar()" classname="org.apache.jmeter.functions.TestFileToString" time="0.002"/>
+  <testcase name="testReadWithEncoding()" classname="org.apache.jmeter.functions.TestFileToString" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

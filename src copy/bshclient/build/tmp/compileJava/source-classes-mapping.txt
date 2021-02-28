@@ -1,0 +1,3 @@
+org/apache/jmeter/util/BeanShellClient.java
+ org.apache.jmeter.util.BeanShellClient
+ org.apache.jmeter.util.BeanShellClient$SockRead

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.functions.TestSamplerNameFunction" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:20" hostname="FI-SWF-MAC-0005" time="0.012">
+  <properties/>
+  <testcase name="testSamplerName()" classname="org.apache.jmeter.functions.TestSamplerNameFunction" time="0.011"/>
+  <testcase name="testSamplerNameWithVar()" classname="org.apache.jmeter.functions.TestSamplerNameFunction" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

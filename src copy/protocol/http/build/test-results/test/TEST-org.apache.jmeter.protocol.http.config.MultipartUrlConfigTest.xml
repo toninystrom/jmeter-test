@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.protocol.http.config.MultipartUrlConfigTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:42" hostname="FI-SWF-MAC-0005" time="0.003">
+  <properties/>
+  <testcase name="testConstructors()" classname="org.apache.jmeter.protocol.http.config.MultipartUrlConfigTest" time="0.0"/>
+  <testcase name="testParseArgumentsLF()" classname="org.apache.jmeter.protocol.http.config.MultipartUrlConfigTest" time="0.001"/>
+  <testcase name="testParseArgumentsCRLF()" classname="org.apache.jmeter.protocol.http.config.MultipartUrlConfigTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

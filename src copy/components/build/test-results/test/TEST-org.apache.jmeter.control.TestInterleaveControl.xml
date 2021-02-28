@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.control.TestInterleaveControl" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:05" hostname="FI-SWF-MAC-0005" time="0.028">
+  <properties/>
+  <testcase name="testProcessing2()" classname="org.apache.jmeter.control.TestInterleaveControl" time="0.001"/>
+  <testcase name="testProcessing3()" classname="org.apache.jmeter.control.TestInterleaveControl" time="0.016"/>
+  <testcase name="testProcessing4()" classname="org.apache.jmeter.control.TestInterleaveControl" time="0.006"/>
+  <testcase name="testProcessing5()" classname="org.apache.jmeter.control.TestInterleaveControl" time="0.0"/>
+  <testcase name="testProcessing6()" classname="org.apache.jmeter.control.TestInterleaveControl" time="0.001"/>
+  <testcase name="testProcessing()" classname="org.apache.jmeter.control.TestInterleaveControl" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

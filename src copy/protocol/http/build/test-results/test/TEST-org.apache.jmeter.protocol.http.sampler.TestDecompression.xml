@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.protocol.http.sampler.TestDecompression" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:43" hostname="FI-SWF-MAC-0005" time="2.474">
+  <properties/>
+  <testcase name="[1] HttpClient4, REQUESTED, SUPPORTED" classname="org.apache.jmeter.protocol.http.sampler.TestDecompression" time="2.332"/>
+  <testcase name="[2] HttpClient4, REQUESTED, NOT_SUPPORTED" classname="org.apache.jmeter.protocol.http.sampler.TestDecompression" time="0.02"/>
+  <testcase name="[3] HttpClient4, NOT_REQUESTED, SUPPORTED" classname="org.apache.jmeter.protocol.http.sampler.TestDecompression" time="0.019"/>
+  <testcase name="[4] HttpClient4, NOT_REQUESTED, NOT_SUPPORTED" classname="org.apache.jmeter.protocol.http.sampler.TestDecompression" time="0.021"/>
+  <testcase name="[5] Java, REQUESTED, SUPPORTED" classname="org.apache.jmeter.protocol.http.sampler.TestDecompression" time="0.023"/>
+  <testcase name="[6] Java, REQUESTED, NOT_SUPPORTED" classname="org.apache.jmeter.protocol.http.sampler.TestDecompression" time="0.016"/>
+  <testcase name="[7] Java, NOT_REQUESTED, SUPPORTED" classname="org.apache.jmeter.protocol.http.sampler.TestDecompression" time="0.019"/>
+  <testcase name="[8] Java, NOT_REQUESTED, NOT_SUPPORTED" classname="org.apache.jmeter.protocol.http.sampler.TestDecompression" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

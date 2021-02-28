@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.protocol.http.control.DnsManagerTest" tests="2" skipped="1" failures="0" errors="0" timestamp="2021-02-28T11:36:47" hostname="FI-SWF-MAC-0005" time="6.234">
+  <properties/>
+  <testcase name="[1] HttpClient4" classname="org.apache.jmeter.protocol.http.control.DnsManagerTest" time="6.229"/>
+  <testcase name="[2] Java" classname="org.apache.jmeter.protocol.http.control.DnsManagerTest" time="0.004">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

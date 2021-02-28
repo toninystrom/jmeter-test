@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.report.core.CsvSampleReaderTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:35:57" hostname="FI-SWF-MAC-0005" time="0.487">
+  <properties/>
+  <testcase name="testReadSample()" classname="org.apache.jmeter.report.core.CsvSampleReaderTest" time="0.459"/>
+  <testcase name="testClose()" classname="org.apache.jmeter.report.core.CsvSampleReaderTest" time="0.005"/>
+  <testcase name="testPeek()" classname="org.apache.jmeter.report.core.CsvSampleReaderTest" time="0.005"/>
+  <testcase name="testConstructorWithInvalidFile()" classname="org.apache.jmeter.report.core.CsvSampleReaderTest" time="0.003"/>
+  <testcase name="testGetMetadata()" classname="org.apache.jmeter.report.core.CsvSampleReaderTest" time="0.004"/>
+  <testcase name="testHasNextAndReadSample()" classname="org.apache.jmeter.report.core.CsvSampleReaderTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

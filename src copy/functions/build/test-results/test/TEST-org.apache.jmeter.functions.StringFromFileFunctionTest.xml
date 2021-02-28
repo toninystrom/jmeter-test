@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.functions.StringFromFileFunctionTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:22" hostname="FI-SWF-MAC-0005" time="0.032">
+  <properties/>
+  <testcase name="SFFTest1()" classname="org.apache.jmeter.functions.StringFromFileFunctionTest" time="0.017"/>
+  <testcase name="SFFTest2()" classname="org.apache.jmeter.functions.StringFromFileFunctionTest" time="0.003"/>
+  <testcase name="SFFTest3()" classname="org.apache.jmeter.functions.StringFromFileFunctionTest" time="0.004"/>
+  <testcase name="SFFTest4()" classname="org.apache.jmeter.functions.StringFromFileFunctionTest" time="0.001"/>
+  <testcase name="SFFTest5()" classname="org.apache.jmeter.functions.StringFromFileFunctionTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

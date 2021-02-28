@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.35">
+<file name="/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/tcp/src/test/java/org/apache/jmeter/protocol/tcp/sampler/BinaryTCPClientImplTest.java">
+</file>
+<file name="/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/tcp/src/test/java/org/apache/jmeter/protocol/tcp/sampler/LengthPrefixedBinaryTCPClientImplTest.java">
+</file>
+<file name="/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/tcp/src/test/java/org/apache/jmeter/protocol/tcp/sampler/TCPClientDecoratorTest.java">
+</file>
+<file name="/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/tcp/src/test/java/org/apache/jmeter/resources/ResourceKeyUsageTestTcp.java">
+</file>
+</checkstyle>

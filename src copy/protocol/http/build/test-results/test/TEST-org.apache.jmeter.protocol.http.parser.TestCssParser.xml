@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.protocol.http.parser.TestCssParser" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:42" hostname="FI-SWF-MAC-0005" time="0.631">
+  <properties/>
+  <testcase name="testIsReusable()" classname="org.apache.jmeter.protocol.http.parser.TestCssParser" time="0.004"/>
+  <testcase name="testGetEmbeddedResourceURLsNoUrls()" classname="org.apache.jmeter.protocol.http.parser.TestCssParser" time="0.413"/>
+  <testcase name="testGetEmbeddedResourceURLsnOneUrl()" classname="org.apache.jmeter.protocol.http.parser.TestCssParser" time="0.207"/>
+  <testcase name="testExtractUrlsFromBrokenData()" classname="org.apache.jmeter.protocol.http.parser.TestCssParser" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

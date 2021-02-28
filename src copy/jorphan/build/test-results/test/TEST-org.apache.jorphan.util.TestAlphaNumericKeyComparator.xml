@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jorphan.util.TestAlphaNumericKeyComparator" tests="28" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:14" hostname="FI-SWF-MAC-0005" time="0.461">
+  <properties/>
+  <testcase name="[1] abc" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.074"/>
+  <testcase name="[2] " classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.001"/>
+  <testcase name="[3] var_123" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.0"/>
+  <testcase name="[4] 434" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.001"/>
+  <testcase name="[5] _" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.002"/>
+  <testcase name="[1] a, 1" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.004"/>
+  <testcase name="[2] something-0001, 999999999999999999999999999999999999999999999999999999999999999999999999999999" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.0"/>
+  <testcase name="[3] abc[23], abc[2]" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.001"/>
+  <testcase name="[4] a10, a1" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.001"/>
+  <testcase name="[5] a2, a1" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.0"/>
+  <testcase name="[6] 2, 01" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.001"/>
+  <testcase name="[7] 0010, 000005" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.001"/>
+  <testcase name="[8] a20, a10" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.001"/>
+  <testcase name="[9] a10, a2" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.001"/>
+  <testcase name="[10] z, 10000" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.031"/>
+  <testcase name="[11] def, abc" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.001"/>
+  <testcase name="[12] 123_z, 123_a" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.0"/>
+  <testcase name="[13] 9-9-z, 9-9-a" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.001"/>
+  <testcase name="[14] abc, " classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.002"/>
+  <testcase name="[15] abc.,${something}1, abc.,${something}" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.0"/>
+  <testcase name="[16] number1, number" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.003"/>
+  <testcase name="[17] 789b, 789" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.001"/>
+  <testcase name="[18] 0xcafebabe, 0x8664" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.001"/>
+  <testcase name="[19] abc_0000, abc_" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.0"/>
+  <testcase name="[1] abc-001, abc-1" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.002"/>
+  <testcase name="[2] 007, 7" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.007"/>
+  <testcase name="[3] 0000, 0" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.002"/>
+  <testcase name="[4] abc|000, abc|0" classname="org.apache.jorphan.util.TestAlphaNumericKeyComparator" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

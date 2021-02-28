@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.protocol.tcp.sampler.BinaryTCPClientImplTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:37:07" hostname="FI-SWF-MAC-0005" time="1.124">
+  <properties/>
+  <testcase name="testLoopBack()" classname="org.apache.jmeter.protocol.tcp.sampler.BinaryTCPClientImplTest" time="1.111"/>
+  <testcase name="testRoundTrip()" classname="org.apache.jmeter.protocol.tcp.sampler.BinaryTCPClientImplTest" time="0.009"/>
+  <testcase name="testHexStringToByteArray()" classname="org.apache.jmeter.protocol.tcp.sampler.BinaryTCPClientImplTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.report.dashboard.ReportGeneratorSpec" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:39:31" hostname="FI-SWF-MAC-0005" time="0.554">
+  <properties/>
+  <testcase name="check that report generation succeeds and statistics.json are generated" classname="org.apache.jmeter.report.dashboard.ReportGeneratorSpec" time="0.535"/>
+  <testcase name="check that report generation fails when format does not match and error is reported" classname="org.apache.jmeter.report.dashboard.ReportGeneratorSpec" time="0.018"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.protocol.jdbc.sampler.JDBCSamplerSpec" tests="15" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:39" hostname="FI-SWF-MAC-0005" time="2.088">
+  <properties/>
+  <testcase name="applies matches SimpleConfigGui[0]" classname="org.apache.jmeter.protocol.jdbc.sampler.JDBCSamplerSpec" time="1.158"/>
+  <testcase name="applies matches SimpleConfigGui[1]" classname="org.apache.jmeter.protocol.jdbc.sampler.JDBCSamplerSpec" time="0.0"/>
+  <testcase name="execute with SELECT query" classname="org.apache.jmeter.protocol.jdbc.sampler.JDBCSamplerSpec" time="0.579"/>
+  <testcase name="Catches SQLException during Connection closing" classname="org.apache.jmeter.protocol.jdbc.sampler.JDBCSamplerSpec" time="0.078"/>
+  <testcase name="Catches SQLException during Statement closing" classname="org.apache.jmeter.protocol.jdbc.sampler.JDBCSamplerSpec" time="0.005"/>
+  <testcase name="Catches SQLException during ResultSet closing" classname="org.apache.jmeter.protocol.jdbc.sampler.JDBCSamplerSpec" time="0.073"/>
+  <testcase name="getIntegerQueryTimeout returns 0 from 0" classname="org.apache.jmeter.protocol.jdbc.sampler.JDBCSamplerSpec" time="0.001"/>
+  <testcase name="getIntegerQueryTimeout returns 1 from 1" classname="org.apache.jmeter.protocol.jdbc.sampler.JDBCSamplerSpec" time="0.0"/>
+  <testcase name="getIntegerQueryTimeout returns 2147483647 from 2147483647" classname="org.apache.jmeter.protocol.jdbc.sampler.JDBCSamplerSpec" time="0.0"/>
+  <testcase name="getIntegerQueryTimeout returns -1 from -1" classname="org.apache.jmeter.protocol.jdbc.sampler.JDBCSamplerSpec" time="0.001"/>
+  <testcase name="getIntegerQueryTimeout returns -2147483648 from -2147483648" classname="org.apache.jmeter.protocol.jdbc.sampler.JDBCSamplerSpec" time="0.0"/>
+  <testcase name="getIntegerQueryTimeout returns 0 from 2147483648" classname="org.apache.jmeter.protocol.jdbc.sampler.JDBCSamplerSpec" time="0.0"/>
+  <testcase name="getIntegerQueryTimeout returns 0 from -2147483649" classname="org.apache.jmeter.protocol.jdbc.sampler.JDBCSamplerSpec" time="0.001"/>
+  <testcase name="getIntegerQueryTimeout returns 0 from nan" classname="org.apache.jmeter.protocol.jdbc.sampler.JDBCSamplerSpec" time="0.002"/>
+  <testcase name="getIntegerQueryTimeout returns 0 from " classname="org.apache.jmeter.protocol.jdbc.sampler.JDBCSamplerSpec" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

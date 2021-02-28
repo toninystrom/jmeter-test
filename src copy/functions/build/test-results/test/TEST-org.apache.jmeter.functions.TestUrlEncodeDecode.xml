@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.functions.TestUrlEncodeDecode" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:20" hostname="FI-SWF-MAC-0005" time="0.004">
+  <properties/>
+  <testcase name="testParameterCount()" classname="org.apache.jmeter.functions.TestUrlEncodeDecode" time="0.001"/>
+  <testcase name="testUrlDecode()" classname="org.apache.jmeter.functions.TestUrlEncodeDecode" time="0.001"/>
+  <testcase name="testUrlEncode()" classname="org.apache.jmeter.functions.TestUrlEncodeDecode" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

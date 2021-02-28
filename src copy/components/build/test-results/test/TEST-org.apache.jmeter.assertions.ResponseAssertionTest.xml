@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.assertions.ResponseAssertionTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:01" hostname="FI-SWF-MAC-0005" time="0.16">
+  <properties/>
+  <testcase name="testResponseAssertionEquals()" classname="org.apache.jmeter.assertions.ResponseAssertionTest" time="0.003"/>
+  <testcase name="testCustomFailureMessage()" classname="org.apache.jmeter.assertions.ResponseAssertionTest" time="0.002"/>
+  <testcase name="testResponseAssertionNoText()" classname="org.apache.jmeter.assertions.ResponseAssertionTest" time="0.001"/>
+  <testcase name="testResponseAssertionResponseHeaders()" classname="org.apache.jmeter.assertions.ResponseAssertionTest" time="0.001"/>
+  <testcase name="testResponseAssertionContains()" classname="org.apache.jmeter.assertions.ResponseAssertionTest" time="0.001"/>
+  <testcase name="testResponseAssertionSubstring()" classname="org.apache.jmeter.assertions.ResponseAssertionTest" time="0.0"/>
+  <testcase name="testThreadSafety()" classname="org.apache.jmeter.assertions.ResponseAssertionTest" time="0.144"/>
+  <testcase name="testResponseAssertionRequestHeaders()" classname="org.apache.jmeter.assertions.ResponseAssertionTest" time="0.0"/>
+  <testcase name="testResponseAssertionContainsDollar()" classname="org.apache.jmeter.assertions.ResponseAssertionTest" time="0.001"/>
+  <testcase name="testMalformedCachePatternException()" classname="org.apache.jmeter.assertions.ResponseAssertionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

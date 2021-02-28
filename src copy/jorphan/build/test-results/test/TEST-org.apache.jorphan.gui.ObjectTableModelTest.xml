@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jorphan.gui.ObjectTableModelTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:15" hostname="FI-SWF-MAC-0005" time="0.034">
+  <properties/>
+  <testcase name="checkMoveRow_from_5_11_to_0()" classname="org.apache.jorphan.gui.ObjectTableModelTest" time="0.024"/>
+  <testcase name="checkClear()" classname="org.apache.jorphan.gui.ObjectTableModelTest" time="0.001"/>
+  <testcase name="checkAddRow()" classname="org.apache.jorphan.gui.ObjectTableModelTest" time="0.001"/>
+  <testcase name="checkMoveRow_from_0_6_to_0()" classname="org.apache.jorphan.gui.ObjectTableModelTest" time="0.002"/>
+  <testcase name="checkMoveRow_from_0_6_to_10()" classname="org.apache.jorphan.gui.ObjectTableModelTest" time="0.002"/>
+  <testcase name="checkInsertRow()" classname="org.apache.jorphan.gui.ObjectTableModelTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>

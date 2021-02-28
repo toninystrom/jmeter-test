@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.functions.TestSimpleFunctions" tests="18" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:15" hostname="FI-SWF-MAC-0005" time="0.179">
+  <properties/>
+  <testcase name="testUnEscapeHtmlParameterCount()" classname="org.apache.jmeter.functions.TestSimpleFunctions" time="0.001"/>
+  <testcase name="testEscapeXmlParameterCount()" classname="org.apache.jmeter.functions.TestSimpleFunctions" time="0.001"/>
+  <testcase name="testThreadNumberParameterCount()" classname="org.apache.jmeter.functions.TestSimpleFunctions" time="0.002"/>
+  <testcase name="testThreadGroupName()" classname="org.apache.jmeter.functions.TestSimpleFunctions" time="0.017"/>
+  <testcase name="testUuid()" classname="org.apache.jmeter.functions.TestSimpleFunctions" time="0.001"/>
+  <testcase name="testTestPlanParameterCount()" classname="org.apache.jmeter.functions.TestSimpleFunctions" time="0.0"/>
+  <testcase name="testEscapeHtml()" classname="org.apache.jmeter.functions.TestSimpleFunctions" time="0.037"/>
+  <testcase name="testEscapeHtmlParameterCount()" classname="org.apache.jmeter.functions.TestSimpleFunctions" time="0.001"/>
+  <testcase name="testTestPlanName()" classname="org.apache.jmeter.functions.TestSimpleFunctions" time="0.001"/>
+  <testcase name="testThreadNumber()" classname="org.apache.jmeter.functions.TestSimpleFunctions" time="0.0"/>
+  <testcase name="testUnEscapeHtml2()" classname="org.apache.jmeter.functions.TestSimpleFunctions" time="0.001"/>
+  <testcase name="testUnEscapeHtml3()" classname="org.apache.jmeter.functions.TestSimpleFunctions" time="0.0"/>
+  <testcase name="testUnEscapeHtml()" classname="org.apache.jmeter.functions.TestSimpleFunctions" time="0.001"/>
+  <testcase name="testThreadGroupNameBug63241()" classname="org.apache.jmeter.functions.TestSimpleFunctions" time="0.0"/>
+  <testcase name="testThreadGroupNameParameterCount()" classname="org.apache.jmeter.functions.TestSimpleFunctions" time="0.001"/>
+  <testcase name="testUUIDParameterCount()" classname="org.apache.jmeter.functions.TestSimpleFunctions" time="0.042"/>
+  <testcase name="testEscapeXml()" classname="org.apache.jmeter.functions.TestSimpleFunctions" time="0.002"/>
+  <testcase name="testUnEscapeParameterCount()" classname="org.apache.jmeter.functions.TestSimpleFunctions" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

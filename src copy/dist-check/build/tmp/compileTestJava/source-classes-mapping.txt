@@ -1,0 +1,24 @@
+org/apache/jmeter/control/TestSwitchController.java
+ org.apache.jmeter.control.TestSwitchController
+org/apache/jmeter/threads/ThreadGroupLoad.java
+ org.apache.jmeter.threads.ThreadGroupLoad
+org/apache/jmeter/testelement/TestElementTest.java
+ org.apache.jmeter.testelement.TestElementTest
+org/apache/jorphan/reflect/TestClassFinder.java
+ org.apache.jorphan.reflect.TestClassFinder
+org/apache/jmeter/junit/JMeterTest.java
+ org.apache.jmeter.junit.JMeterTest
+org/apache/jmeter/testbeans/gui/PackageTest.java
+ org.apache.jmeter.testbeans.gui.PackageTest
+org/apache/jmeter/functions/ComponentReferenceFunctionTest.java
+ org.apache.jmeter.functions.ComponentReferenceFunctionTest
+org/apache/jmeter/resources/TestPropertiesFiles.java
+ org.apache.jmeter.resources.TestPropertiesFiles
+org/apache/jmeter/save/TestSaveService.java
+ org.apache.jmeter.save.TestSaveService
+ org.apache.jmeter.save.TestSaveService$FileStats
+org/apache/jorphan/TestFunctorUsers.java
+ org.apache.jorphan.TestFunctorUsers
+org/apache/jmeter/gui/action/TestLoad.java
+ org.apache.jmeter.gui.action.TestLoad
+ org.apache.jmeter.gui.action.TestLoad$1

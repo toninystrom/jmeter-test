@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.protocol.jms.sampler.render.BinaryMessageRendererTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:44" hostname="FI-SWF-MAC-0005" time="2.884">
+  <properties/>
+  <testcase name="getValueFromFile_withOneVar(JMeterVariables)" classname="org.apache.jmeter.protocol.jms.sampler.render.BinaryMessageRendererTest" time="2.566"/>
+  <testcase name="readNonExistingContent()" classname="org.apache.jmeter.protocol.jms.sampler.render.BinaryMessageRendererTest" time="0.046"/>
+  <testcase name="getValueFromFile_withInvalidEncoding()" classname="org.apache.jmeter.protocol.jms.sampler.render.BinaryMessageRendererTest" time="0.066"/>
+  <testcase name="getValueFromText()" classname="org.apache.jmeter.protocol.jms.sampler.render.BinaryMessageRendererTest" time="0.005"/>
+  <testcase name="[1] UTF-8" classname="org.apache.jmeter.protocol.jms.sampler.render.BinaryMessageRendererTest" time="0.094"/>
+  <testcase name="[2] Cp1252" classname="org.apache.jmeter.protocol.jms.sampler.render.BinaryMessageRendererTest" time="0.01"/>
+  <testcase name="getValueFromFile_inRawMode()" classname="org.apache.jmeter.protocol.jms.sampler.render.BinaryMessageRendererTest" time="0.005"/>
+  <testcase name="getValueFromFile_withNoVar()" classname="org.apache.jmeter.protocol.jms.sampler.render.BinaryMessageRendererTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

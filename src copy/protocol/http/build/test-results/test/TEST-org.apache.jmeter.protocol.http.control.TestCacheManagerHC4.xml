@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" tests="26" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:35" hostname="FI-SWF-MAC-0005" time="22.276">
+  <properties/>
+  <testcase name="testBug61321()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="0.138"/>
+  <testcase name="testPrivateCache()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="2.104"/>
+  <testcase name="testNoStore()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="0.001"/>
+  <testcase name="testNoCache()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="0.001"/>
+  <testcase name="testCacheMultipleMultiVaryHeaders()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="0.038"/>
+  <testcase name="testSaveDetailsHttpMethodWithSampleResultWithResponseCode200GivesCacheEntry()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="0.004"/>
+  <testcase name="testPrivateCacheNoMaxAgeNoExpire()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="4.92"/>
+  <testcase name="testCacheVarySomething()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="0.002"/>
+  <testcase name="testNoCachingHeadersBug64915()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="0.001"/>
+  <testcase name="testCacheVaryAcceptEncoding()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="0.001"/>
+  <testcase name="testSaveDetailsHttpMethodWithSampleResultWithResponseCode404GivesNoCacheEntry()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="0.0"/>
+  <testcase name="testSetHeadersHttpMethodWithSampleResultWithResponseCode200GivesCacheEntry()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="0.0"/>
+  <testcase name="testCacheHEAD()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="0.001"/>
+  <testcase name="testCacheMultiValueVaryHeaders()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="0.001"/>
+  <testcase name="testNoExpires()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="0.001"/>
+  <testcase name="testPrivateCacheExpireNoMaxAge()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="2.98"/>
+  <testcase name="testNoCacheControlNoMaxAgeNoExpire()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="5.023"/>
+  <testcase name="testCacheControl()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="1.945"/>
+  <testcase name="testSetHeadersHttpMethodWithSampleResultWithResponseCode404GivesNoCacheEntry()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="0.001"/>
+  <testcase name="testGetClearEachIteration()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="0.001"/>
+  <testcase name="testCacheHttpClientBug51932()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="1.948"/>
+  <testcase name="testSaveDetailsWithEmptySampleResultGivesNoCacheEntry()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="0.001"/>
+  <testcase name="testCacheMultipleVaryHeaders()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="0.001"/>
+  <testcase name="testClearCache()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="0.001"/>
+  <testcase name="testExpiresBug59962()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="3.061"/>
+  <testcase name="testExpires()" classname="org.apache.jmeter.protocol.http.control.TestCacheManagerHC4" time="3.07"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

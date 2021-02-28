@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jorphan.gui.MinMaxLongRendererTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:37:01" hostname="FI-SWF-MAC-0005" time="0.864">
+  <properties/>
+  <testcase name="testRendering[0]" classname="org.apache.jorphan.gui.MinMaxLongRendererTest" time="0.802"/>
+  <testcase name="testRendering[1]" classname="org.apache.jorphan.gui.MinMaxLongRendererTest" time="0.052"/>
+  <testcase name="testRendering[2]" classname="org.apache.jorphan.gui.MinMaxLongRendererTest" time="0.005"/>
+  <testcase name="testRendering[3]" classname="org.apache.jorphan.gui.MinMaxLongRendererTest" time="0.001"/>
+  <testcase name="testRendering[4]" classname="org.apache.jorphan.gui.MinMaxLongRendererTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

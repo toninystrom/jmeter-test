@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.assertions.gui.AssertionGuiSpec" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:09" hostname="FI-SWF-MAC-0005" time="0.327">
+  <properties/>
+  <testcase name="init of new component does not throw an exception" classname="org.apache.jmeter.assertions.gui.AssertionGuiSpec" time="0.013"/>
+  <testcase name="clearing GUI component fields does not throw an exception" classname="org.apache.jmeter.assertions.gui.AssertionGuiSpec" time="0.001"/>
+  <testcase name="Creation of ResponseAssertion sets name of element and enables it" classname="org.apache.jmeter.assertions.gui.AssertionGuiSpec" time="0.011"/>
+  <testcase name="Modification of ResponseAssertion by GUI has no unexpected behaviour" classname="org.apache.jmeter.assertions.gui.AssertionGuiSpec" time="0.07"/>
+  <testcase name="Modification of GUI by ResponseAssertion does not throw an exception" classname="org.apache.jmeter.assertions.gui.AssertionGuiSpec" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.samplers.TestSampleResult" tests="18" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:35:53" hostname="FI-SWF-MAC-0005" time="3.952">
+  <properties/>
+  <testcase name="testSubResultsFalsePause()" classname="org.apache.jmeter.samplers.TestSampleResult" time="0.417"/>
+  <testcase name="testByteCount()" classname="org.apache.jmeter.samplers.TestSampleResult" time="0.001"/>
+  <testcase name="testElapsedTrue()" classname="org.apache.jmeter.samplers.TestSampleResult" time="0.112"/>
+  <testcase name="testElapsedFalse()" classname="org.apache.jmeter.samplers.TestSampleResult" time="0.115"/>
+  <testcase name="testSubResultsTruePauseThread()" classname="org.apache.jmeter.samplers.TestSampleResult" time="0.407"/>
+  <testcase name="testBug63433()" classname="org.apache.jmeter.samplers.TestSampleResult" time="0.001"/>
+  <testcase name="testPause2True()" classname="org.apache.jmeter.samplers.TestSampleResult" time="0.002"/>
+  <testcase name="testPauseFalse()" classname="org.apache.jmeter.samplers.TestSampleResult" time="0.412"/>
+  <testcase name="testSubResultsFalsePauseThread()" classname="org.apache.jmeter.samplers.TestSampleResult" time="0.408"/>
+  <testcase name="testEncodingAndType()" classname="org.apache.jmeter.samplers.TestSampleResult" time="0.001"/>
+  <testcase name="testSubResultsTruePause()" classname="org.apache.jmeter.samplers.TestSampleResult" time="0.403"/>
+  <testcase name="testCompareSampleLabels()" classname="org.apache.jmeter.samplers.TestSampleResult" time="0.0"/>
+  <testcase name="testSubResultsFalse()" classname="org.apache.jmeter.samplers.TestSampleResult" time="0.307"/>
+  <testcase name="testPause2False()" classname="org.apache.jmeter.samplers.TestSampleResult" time="0.002"/>
+  <testcase name="testSubResultsFalseThread()" classname="org.apache.jmeter.samplers.TestSampleResult" time="0.306"/>
+  <testcase name="testPauseTrue()" classname="org.apache.jmeter.samplers.TestSampleResult" time="0.405"/>
+  <testcase name="testSubResultsTrue()" classname="org.apache.jmeter.samplers.TestSampleResult" time="0.305"/>
+  <testcase name="testSubResultsTrueThread()" classname="org.apache.jmeter.samplers.TestSampleResult" time="0.311"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

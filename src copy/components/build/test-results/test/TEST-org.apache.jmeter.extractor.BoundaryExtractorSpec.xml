@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.extractor.BoundaryExtractorSpec" tests="43" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:07" hostname="FI-SWF-MAC-0005" time="0.304">
+  <properties/>
+  <testcase name="Extract, where pattern exists, with matchNumber=-1 from #Error:occurences returns [1]" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.114"/>
+  <testcase name="Extract, where pattern exists, with matchNumber=0 from #Error:occurences returns [1]" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.001"/>
+  <testcase name="Extract, where pattern exists, with matchNumber=1 from #Error:occurences returns [1]" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.001"/>
+  <testcase name="Extract, where pattern exists, with matchNumber=2 from #Error:occurences returns []" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.0"/>
+  <testcase name="Extract, where pattern exists, with matchNumber=-1 from #Error:occurences returns [1, 2]" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.001"/>
+  <testcase name="Extract, where pattern exists, with matchNumber=1 from #Error:occurences returns [1]" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.001"/>
+  <testcase name="Extract, where pattern exists, with matchNumber=2 from #Error:occurences returns [2]" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.0"/>
+  <testcase name="Extract, where pattern exists, with matchNumber=3 from #Error:occurences returns [3]" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.0"/>
+  <testcase name="Extract, where pattern does not exist, with matchNumber=-1 returns an empty list" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.0"/>
+  <testcase name="Extract, where pattern does not exist, with matchNumber=0 returns an empty list" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.0"/>
+  <testcase name="Extract, where pattern does not exist, with matchNumber=1 returns an empty list" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.003"/>
+  <testcase name="Extract, where pattern does not exist, with matchNumber=2 returns an empty list" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.003"/>
+  <testcase name="Extract, where pattern does not exist, with matchNumber=100 returns an empty list" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.001"/>
+  <testcase name="Extract, where pattern exists in the stream, with matchNumber=-1 from #Error:occurances returns [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.009"/>
+  <testcase name="Extract, where pattern exists in the stream, with matchNumber=0 from #Error:occurances returns [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.001"/>
+  <testcase name="Extract, where pattern exists in the stream, with matchNumber=1 from #Error:occurances returns [1]" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.003"/>
+  <testcase name="Extract, where pattern exists in the stream, with matchNumber=10 from #Error:occurances returns [1]" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.002"/>
+  <testcase name="Extract, where pattern exists in the stream, with matchNumber=11 from #Error:occurances returns []" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.0"/>
+  <testcase name="Extract, where pattern exists in the stream, with matchNumber=-1 from #Error:occurances returns [1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 2]" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.001"/>
+  <testcase name="Extract, where pattern exists in the stream, with matchNumber=1 from #Error:occurances returns [1]" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.0"/>
+  <testcase name="Extract, where pattern exists in the stream, with matchNumber=2 from #Error:occurances returns [2]" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.001"/>
+  <testcase name="Extract, where pattern exists in the stream, with matchNumber=3 from #Error:occurances returns [3]" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.0"/>
+  <testcase name="Extract, where pattern does not exist in the stream, with matchNumber=-1 returns an empty list" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.002"/>
+  <testcase name="Extract, where pattern does not exist in the stream, with matchNumber=0 returns an empty list" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.0"/>
+  <testcase name="Extract, where pattern does not exist in the stream, with matchNumber=1 returns an empty list" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.001"/>
+  <testcase name="Extract, where pattern does not exist in the stream, with matchNumber=2 returns an empty list" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.0"/>
+  <testcase name="Extract, where pattern does not exist in the stream, with matchNumber=100 returns an empty list" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.002"/>
+  <testcase name="IllegalArgumentException when name (null) is null" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.001"/>
+  <testcase name="matching only on left boundary returns default" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.001"/>
+  <testcase name="matching only on right boundary returns default" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.0"/>
+  <testcase name="variables from a previous extraction are removed" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.001"/>
+  <testcase name="with no sub-samples parent and all scope return data but children scope does not" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.001"/>
+  <testcase name="with sub-samples parent, all and children scope return expected item" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.007"/>
+  <testcase name="with sub-samples parent, all and children scope return expected data" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.008"/>
+  <testcase name="when 'default empty value' is true the default value is allowed to be empty" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.001"/>
+  <testcase name="when default value is empty but not allowed null is returned" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.001"/>
+  <testcase name="with no previous results result is null" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.002"/>
+  <testcase name="with non-existent variable result is null" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.002"/>
+  <testcase name="not allowing blank default value returns null upon no matches" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.0"/>
+  <testcase name="extract all matches from variable input" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.002"/>
+  <testcase name="extract random from variable returns one of the matches" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.071"/>
+  <testcase name="extract all from an empty variable returns no results" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.0"/>
+  <testcase name="previous extractions are cleared" classname="org.apache.jmeter.extractor.BoundaryExtractorSpec" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

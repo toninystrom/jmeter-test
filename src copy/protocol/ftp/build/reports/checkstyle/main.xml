@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.35">
+<file name="/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/ftp/src/main/java/org/apache/jmeter/protocol/ftp/config/gui/FtpConfigGui.java">
+</file>
+<file name="/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/ftp/src/main/java/org/apache/jmeter/protocol/ftp/control/gui/FtpTestSamplerGui.java">
+</file>
+<file name="/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/ftp/src/main/java/org/apache/jmeter/protocol/ftp/sampler/FTPSampler.java">
+</file>
+</checkstyle>

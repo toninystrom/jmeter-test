@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.functions.ChangeCaseSpec" tests="22" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:24" hostname="FI-SWF-MAC-0005" time="0.026">
+  <properties/>
+  <testcase name="convert 'simple' using mode lower to 'simple'" classname="org.apache.jmeter.functions.ChangeCaseSpec" time="0.005"/>
+  <testcase name="convert 'simple' using mode upper to 'SIMPLE'" classname="org.apache.jmeter.functions.ChangeCaseSpec" time="0.0"/>
+  <testcase name="convert 'simple' using mode capitalize to 'Simple'" classname="org.apache.jmeter.functions.ChangeCaseSpec" time="0.0"/>
+  <testcase name="convert 'simple' using mode  to 'SIMPLE'" classname="org.apache.jmeter.functions.ChangeCaseSpec" time="0.001"/>
+  <testcase name="convert ' with space ' using mode lower to ' with space '" classname="org.apache.jmeter.functions.ChangeCaseSpec" time="0.001"/>
+  <testcase name="convert ' with space ' using mode upper to ' WITH SPACE '" classname="org.apache.jmeter.functions.ChangeCaseSpec" time="0.001"/>
+  <testcase name="convert ' with space ' using mode capitalize to ' with space '" classname="org.apache.jmeter.functions.ChangeCaseSpec" time="0.001"/>
+  <testcase name="convert '#_with-signs.' using mode lower to '#_with-signs.'" classname="org.apache.jmeter.functions.ChangeCaseSpec" time="0.001"/>
+  <testcase name="convert '#_with-signs.' using mode upper to '#_WITH-SIGNS.'" classname="org.apache.jmeter.functions.ChangeCaseSpec" time="0.001"/>
+  <testcase name="convert '#_with-signs.' using mode capitalize to '#_with-signs.'" classname="org.apache.jmeter.functions.ChangeCaseSpec" time="0.0"/>
+  <testcase name="convert 'm4u file' using mode lower to 'm4u file'" classname="org.apache.jmeter.functions.ChangeCaseSpec" time="0.0"/>
+  <testcase name="convert 'm4u file' using mode upper to 'M4U FILE'" classname="org.apache.jmeter.functions.ChangeCaseSpec" time="0.0"/>
+  <testcase name="convert 'm4u file' using mode capitalize to 'M4u file'" classname="org.apache.jmeter.functions.ChangeCaseSpec" time="0.0"/>
+  <testcase name="convert 'WITH Ümläuts' using mode lower to 'with ümläuts'" classname="org.apache.jmeter.functions.ChangeCaseSpec" time="0.002"/>
+  <testcase name="convert 'WITH Ümläuts' using mode upper to 'WITH ÜMLÄUTS'" classname="org.apache.jmeter.functions.ChangeCaseSpec" time="0.001"/>
+  <testcase name="convert 'WITH Ümläuts' using mode capitalize to 'WITH Ümläuts'" classname="org.apache.jmeter.functions.ChangeCaseSpec" time="0.002"/>
+  <testcase name="convert '+ - special space' using mode lower to '+ - special space'" classname="org.apache.jmeter.functions.ChangeCaseSpec" time="0.001"/>
+  <testcase name="convert '+ - special space' using mode upper to '+ - SPECIAL SPACE'" classname="org.apache.jmeter.functions.ChangeCaseSpec" time="0.0"/>
+  <testcase name="convert '+ - special space' using mode capitalize to '+ - special space'" classname="org.apache.jmeter.functions.ChangeCaseSpec" time="0.0"/>
+  <testcase name="convert ' ' using mode lower to ' '" classname="org.apache.jmeter.functions.ChangeCaseSpec" time="0.001"/>
+  <testcase name="convert ' ' using mode upper to ' '" classname="org.apache.jmeter.functions.ChangeCaseSpec" time="0.0"/>
+  <testcase name="convert ' ' using mode capitalize to ' '" classname="org.apache.jmeter.functions.ChangeCaseSpec" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

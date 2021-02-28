@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.resources.PackageTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:35:59" hostname="FI-SWF-MAC-0005" time="0.151">
+  <properties/>
+  <testcase name="testLang : /org/apache/jmeter/resources/messages" classname="org.apache.jmeter.resources.PackageTest" time="0.008"/>
+  <testcase name="testLang fr: /org/apache/jmeter/resources/messages" classname="org.apache.jmeter.resources.PackageTest" time="0.018"/>
+  <testcase name="testLang de: /org/apache/jmeter/resources/messages" classname="org.apache.jmeter.resources.PackageTest" time="0.005"/>
+  <testcase name="testLang no: /org/apache/jmeter/resources/messages" classname="org.apache.jmeter.resources.PackageTest" time="0.002"/>
+  <testcase name="testLang pl: /org/apache/jmeter/resources/messages" classname="org.apache.jmeter.resources.PackageTest" time="0.003"/>
+  <testcase name="testLang pt_BR: /org/apache/jmeter/resources/messages" classname="org.apache.jmeter.resources.PackageTest" time="0.006"/>
+  <testcase name="testLang es: /org/apache/jmeter/resources/messages" classname="org.apache.jmeter.resources.PackageTest" time="0.009"/>
+  <testcase name="testLang tr: /org/apache/jmeter/resources/messages" classname="org.apache.jmeter.resources.PackageTest" time="0.019"/>
+  <testcase name="testLang ja: /org/apache/jmeter/resources/messages" classname="org.apache.jmeter.resources.PackageTest" time="0.005"/>
+  <testcase name="testLang zh_CN: /org/apache/jmeter/resources/messages" classname="org.apache.jmeter.resources.PackageTest" time="0.014"/>
+  <testcase name="testLang zh_TW: /org/apache/jmeter/resources/messages" classname="org.apache.jmeter.resources.PackageTest" time="0.006"/>
+  <testcase name="testLang ko: /org/apache/jmeter/resources/messages" classname="org.apache.jmeter.resources.PackageTest" time="0.015"/>
+  <testcase name="checkI18n fr: messages" classname="org.apache.jmeter.resources.PackageTest" time="0.035"/>
+  <system-out><![CDATA[Ignoring missing junit_success_default_code=1000 in org/apache/jmeter/resources/messages_fr.properties
+Ignoring missing junit_failure_default_code=0001 in org/apache/jmeter/resources/messages_fr.properties
+Ignoring missing aggregate_report_90=90% in org/apache/jmeter/resources/messages_fr.properties
+Ignoring missing junit_error_default_code=9999 in org/apache/jmeter/resources/messages_fr.properties
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

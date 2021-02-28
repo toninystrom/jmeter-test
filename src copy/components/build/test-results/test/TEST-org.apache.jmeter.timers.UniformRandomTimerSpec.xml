@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.jmeter.timers.UniformRandomTimerSpec" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:05" hostname="FI-SWF-MAC-0005" time="0.141">
+  <properties/>
+  <testcase name="default delay is 0" classname="org.apache.jmeter.timers.UniformRandomTimerSpec" time="0.06"/>
+  <testcase name="default range is 0" classname="org.apache.jmeter.timers.UniformRandomTimerSpec" time="0.004"/>
+  <testcase name="delay can be set via a String" classname="org.apache.jmeter.timers.UniformRandomTimerSpec" time="0.001"/>
+  <testcase name="1 &lt;= computedDelay &lt;= trunc(1 + abs(10.5))" classname="org.apache.jmeter.timers.UniformRandomTimerSpec" time="0.059"/>
+  <testcase name="1 &lt;= computedDelay &lt;= trunc(1 + abs(0.1))" classname="org.apache.jmeter.timers.UniformRandomTimerSpec" time="0.0"/>
+  <testcase name="0 &lt;= computedDelay &lt;= trunc(0 + abs(-50.0))" classname="org.apache.jmeter.timers.UniformRandomTimerSpec" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
