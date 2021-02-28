@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.jmeter.engine.TestTreeCloner" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:35:59" hostname="FI-SWF-MAC-0005" time="0.047">
-  <properties/>
-  <testcase name="testCloning()" classname="org.apache.jmeter.engine.TestTreeCloner" time="0.047"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

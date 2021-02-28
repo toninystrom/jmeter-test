@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.jmeter.config.gui.TestArgumentsPanel" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:35:45" hostname="FI-SWF-MAC-0005" time="3.477">
-  <properties/>
-  <testcase name="testArgumentCreation()" classname="org.apache.jmeter.config.gui.TestArgumentsPanel" time="3.477"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

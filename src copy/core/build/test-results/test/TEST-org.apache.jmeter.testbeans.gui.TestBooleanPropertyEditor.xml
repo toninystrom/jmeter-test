@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.jmeter.testbeans.gui.TestBooleanPropertyEditor" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:35:48" hostname="FI-SWF-MAC-0005" time="0.009">
-  <properties/>
-  <testcase name="testBooleanPropertyEditor()" classname="org.apache.jmeter.testbeans.gui.TestBooleanPropertyEditor" time="0.002"/>
-  <testcase name="testBooleanEditor()" classname="org.apache.jmeter.testbeans.gui.TestBooleanPropertyEditor" time="0.006"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

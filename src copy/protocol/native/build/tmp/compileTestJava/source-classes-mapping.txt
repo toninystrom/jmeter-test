@@ -1,2 +1,0 @@
-org/apache/jmeter/resources/ResourceKeyUsageTestNative.java
- org.apache.jmeter.resources.ResourceKeyUsageTestNative

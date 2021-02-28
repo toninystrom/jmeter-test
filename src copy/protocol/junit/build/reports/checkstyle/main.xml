@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<checkstyle version="8.35">
-<file name="/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/junit/src/main/java/org/apache/jmeter/protocol/java/control/gui/ClassFilter.java">
-</file>
-<file name="/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/junit/src/main/java/org/apache/jmeter/protocol/java/control/gui/JUnitTestSamplerGui.java">
-</file>
-<file name="/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/junit/src/main/java/org/apache/jmeter/protocol/java/sampler/JUnitSampler.java">
-</file>
-</checkstyle>

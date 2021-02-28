@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.jmeter.protocol.jms.sampler.PublisherSamplerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:48" hostname="FI-SWF-MAC-0005" time="0.236">
-  <properties/>
-  <testcase name="noopCache()" classname="org.apache.jmeter.protocol.jms.sampler.PublisherSamplerTest" time="0.236"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

@@ -1,4 +1,0 @@
-org/apache/jmeter/protocol/mail/sampler/TestMailReaderSampler.java
- org.apache.jmeter.protocol.mail.sampler.TestMailReaderSampler
-org/apache/jmeter/resources/ResourceKeyUsageTestMail.java
- org.apache.jmeter.resources.ResourceKeyUsageTestMail

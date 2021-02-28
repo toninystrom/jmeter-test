@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.jmeter.protocol.tcp.sampler.LengthPrefixedBinaryTCPClientImplTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:37:08" hostname="FI-SWF-MAC-0005" time="0.009">
-  <properties/>
-  <testcase name="testError()" classname="org.apache.jmeter.protocol.tcp.sampler.LengthPrefixedBinaryTCPClientImplTest" time="0.005"/>
-  <testcase name="testValid()" classname="org.apache.jmeter.protocol.tcp.sampler.LengthPrefixedBinaryTCPClientImplTest" time="0.002"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

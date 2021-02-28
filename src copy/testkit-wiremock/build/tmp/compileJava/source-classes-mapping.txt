@@ -1,4 +1,0 @@
-org/apache/jmeter/wiremock/WireMockExtension.java
- org.apache.jmeter.wiremock.WireMockExtension
-org/apache/jmeter/wiremock/RequestCountDown.java
- org.apache.jmeter.wiremock.RequestCountDown

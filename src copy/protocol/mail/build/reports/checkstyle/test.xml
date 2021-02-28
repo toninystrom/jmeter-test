@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<checkstyle version="8.35">
-<file name="/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/mail/src/test/java/org/apache/jmeter/protocol/mail/sampler/TestMailReaderSampler.java">
-</file>
-<file name="/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/mail/src/test/java/org/apache/jmeter/resources/ResourceKeyUsageTestMail.java">
-</file>
-</checkstyle>

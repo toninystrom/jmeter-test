@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.jmeter.testbeans.gui.TestFieldStringEditor" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:35:45" hostname="FI-SWF-MAC-0005" time="3.034">
-  <properties/>
-  <testcase name="testSetGetAsText()" classname="org.apache.jmeter.testbeans.gui.TestFieldStringEditor" time="2.974"/>
-  <testcase name="testSetGet()" classname="org.apache.jmeter.testbeans.gui.TestFieldStringEditor" time="0.058"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

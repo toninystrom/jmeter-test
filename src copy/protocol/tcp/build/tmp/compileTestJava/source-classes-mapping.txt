@@ -1,8 +1,0 @@
-org/apache/jmeter/protocol/tcp/sampler/BinaryTCPClientImplTest.java
- org.apache.jmeter.protocol.tcp.sampler.BinaryTCPClientImplTest
-org/apache/jmeter/resources/ResourceKeyUsageTestTcp.java
- org.apache.jmeter.resources.ResourceKeyUsageTestTcp
-org/apache/jmeter/protocol/tcp/sampler/TCPClientDecoratorTest.java
- org.apache.jmeter.protocol.tcp.sampler.TCPClientDecoratorTest
-org/apache/jmeter/protocol/tcp/sampler/LengthPrefixedBinaryTCPClientImplTest.java
- org.apache.jmeter.protocol.tcp.sampler.LengthPrefixedBinaryTCPClientImplTest

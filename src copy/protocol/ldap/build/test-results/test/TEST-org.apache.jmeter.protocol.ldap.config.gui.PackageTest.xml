@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.jmeter.protocol.ldap.config.gui.PackageTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:52" hostname="FI-SWF-MAC-0005" time="5.389">
-  <properties/>
-  <testcase name="testLDAPArgumentCreation()" classname="org.apache.jmeter.protocol.ldap.config.gui.PackageTest" time="5.389"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

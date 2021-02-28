@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.apache.jmeter.report.processor.graph.impl.ResponseTimePercentilesOverTimeGraphConsumerSpec" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-02-28T11:36:02" hostname="FI-SWF-MAC-0005" time="0.187">
-  <properties/>
-  <testcase name="GroupInfos have only the required keys" classname="org.apache.jmeter.report.processor.graph.impl.ResponseTimePercentilesOverTimeGraphConsumerSpec" time="0.017"/>
-  <testcase name="GroupInfos have the expected settings" classname="org.apache.jmeter.report.processor.graph.impl.ResponseTimePercentilesOverTimeGraphConsumerSpec" time="0.17"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

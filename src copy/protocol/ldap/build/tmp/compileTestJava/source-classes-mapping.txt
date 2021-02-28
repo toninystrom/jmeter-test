@@ -1,4 +1,0 @@
-org/apache/jmeter/resources/ResourceKeyUsageTestLdap.java
- org.apache.jmeter.resources.ResourceKeyUsageTestLdap
-org/apache/jmeter/protocol/ldap/config/gui/PackageTest.java
- org.apache.jmeter.protocol.ldap.config.gui.PackageTest

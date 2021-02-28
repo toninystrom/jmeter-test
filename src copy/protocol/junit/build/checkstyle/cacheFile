@@ -1,8 +1,0 @@
-#Sun Feb 28 13:26:47 EET 2021
-configuration*?=EF349D03AA6237CC8A9E001FC9EEC4DA895C22EF
-/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/junit/src/main/java/org/apache/jmeter/protocol/java/control/gui/JUnitTestSamplerGui.java=1613578446112
-/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/junit/src/main/java/org/apache/jmeter/protocol/java/sampler/JUnitSampler.java=1613578446125
-/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/junit/src/test/java/org/apache/jmeter/resources/ResourceKeyUsageTestJUnit.java=1613578446126
-module-resource*?\:file\:/Users/toninystrom/School/SEM/jmeter2/jmeter/config/checkstyle/java.header.regex=57989901794549ED71AB4338640C5777F40CBE41
-module-resource*?\:/Users/toninystrom/School/SEM/jmeter2/jmeter/config/checkstyle/checkstyle-suppressions.xml=6D51F3333309D6C31048072255D74E7EE3920DB0
-/Users/toninystrom/School/SEM/jmeter2/jmeter/src/protocol/junit/src/main/java/org/apache/jmeter/protocol/java/control/gui/ClassFilter.java=1613578446112

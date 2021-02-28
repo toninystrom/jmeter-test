@@ -1,6 +1,0 @@
-org/apache/jmeter/protocol/ftp/config/gui/FtpConfigGui.java
- org.apache.jmeter.protocol.ftp.config.gui.FtpConfigGui
-org/apache/jmeter/protocol/ftp/sampler/FTPSampler.java
- org.apache.jmeter.protocol.ftp.sampler.FTPSampler
-org/apache/jmeter/protocol/ftp/control/gui/FtpTestSamplerGui.java
- org.apache.jmeter.protocol.ftp.control.gui.FtpTestSamplerGui

@@ -1,6 +1,0 @@
-org/apache/jmeter/util/ShutdownClient.java
- org.apache.jmeter.util.ShutdownClient
-org/apache/jmeter/DynamicClassLoader.java
- org.apache.jmeter.DynamicClassLoader
-org/apache/jmeter/NewDriver.java
- org.apache.jmeter.NewDriver

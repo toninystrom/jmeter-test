@@ -1,2 +1,0 @@
-org/apache/jmeter/resources/ResourceKeyUsageTestJUnit.java
- org.apache.jmeter.resources.ResourceKeyUsageTestJUnit

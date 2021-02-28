@@ -1,4 +1,0 @@
-org/apache/jmeter/protocol/system/gui/SystemSamplerGui.java
- org.apache.jmeter.protocol.system.gui.SystemSamplerGui
-org/apache/jmeter/protocol/system/SystemSampler.java
- org.apache.jmeter.protocol.system.SystemSampler
