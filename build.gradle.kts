@@ -193,8 +193,8 @@ allprojects {
 
 sonarqube {
     properties {
-        property("sonar.projectKey", "SoftasenseitJMeter")
-        property("sonar.organization", "softasenseit")
+        property("sonar.projectKey", "toninystrom_jmeter-test")
+        property("sonar.organization", "toninystrom")
         property("sonar.host.url", "https://sonarcloud.io")
     }
 }
