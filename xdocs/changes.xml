@@ -79,10 +79,16 @@ Summary
 <h3>HTTP Samplers and Test Script Recorder</h3>
 <ul>
   <li><bug>65027</bug>Detect mime-type for files automatically when adding files to HTTP Sampler</li>
+  <li><bug>65020</bug>HTTP Sampler/Files upload tab - add missing buttons</li>
+  <li><pr>650</pr>HTTP Sampler timestamp fix when exception is caught. Contributed by Konstantin Kalinin (konstantin at kkalinin.pro)</li>
 </ul>
 
 <h3>Other samplers</h3>
 <ul>
+  <li><bug>65149</bug><pr>644</pr>Encode the personal part of email addresses in SMTP Sampler</li>
+  <li><pr>638</pr>Various additions to the Bolt Sampler. Added <code>transaction timeout</code>, <code>database</code>
+    option required for Neo4j 4.x (with multi-database support) and <code>access mode</code> option, that allows running
+    against a Neo4j Enterprise Causal Cluster. Contributed by David Pecollet (david.pecollet at gmail.com)</li>
 </ul>
 
 <h3>Controllers</h3>
@@ -97,6 +103,8 @@ Summary
 
 <h3>Timers, Assertions, Config, Pre- &amp; Post-Processors</h3>
 <ul>
+    <li><pr>638</pr>Bolt Connection Configuration: added <code>ConnectionPoolMaxSize</code> parameter. Contributed by
+        David Pecollet (david.pecollet at gmail.com)</li>
 </ul>
 
 <h3>Functions</h3>
@@ -118,6 +126,7 @@ Summary
 <ch_section>Non-functional changes</ch_section>
 <ul>
   <li><bug>65128</bug><pr>643</pr>Add missing documentation about <code>Same user on each iteration</code> for Thread Groups. Contributed by njkuzas.</li>
+  <li><pr>648</pr>Updated xmlgraphics-commons to 2.6 (from 2.3). Contributed by Stefan Seide (stefan @ trilobyte.se.de)</li>
 </ul>
 
  <!-- =================== Bug fixes =================== -->
@@ -130,6 +139,9 @@ Summary
 
 <h3>Other Samplers</h3>
 <ul>
+  <li><bug>65152</bug>OS Process Sampler - Cannot <code>Add from Clipboard</code> Command parameters</li>
+  <li><pr>638</pr>Bolt Sampler: fixed error displaying results when "Record Query Results" is enabled. Contributed by
+        David Pecollet (david.pecollet at gmail.com)</li>
 </ul>
 
 <h3>Controllers</h3>
@@ -165,6 +177,7 @@ Summary
 <ul>
   <li><bug>64318</bug>DNS Cache Manager - custom DNS resolver does not use system resolver by default</li>
   <li><pr>641</pr>Updated xercesImpl to 2.12.1 (from 2.12.0). Based on patch by Stefan Seide (stefan at trilobyte-se.de).</li>
+  <li><pr>645</pr>Add escaping for new lines in AbstractInfluxdbMetricsSender. Contributed by David Getzlaff (david.getzlaff at t-systems.com>)</li>
 </ul>
 
  <!--  =================== Thanks =================== -->
@@ -175,6 +188,9 @@ Summary
 <ul>
   <li>Stefan Seide (stefan at trilobyte-se.de)</li>
   <li>njzukas (github.com/njzukas)</li>
+  <li>David Getzlaff (david.getzlaff at t-systems.com>)</li>
+  <li>Konstantin Kalinin (konstantin at kkalinin.pro)</li>
+  <li>David Pecollet (david.pecollet at gmail.com)</li>
 </ul>
 <p>We also thank bug reporters who helped us improve JMeter.</p>
 <ul>

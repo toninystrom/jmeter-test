@@ -29,6 +29,7 @@ import java.awt.event.ActionListener;
 import java.io.IOException;
 import java.util.Collection;
 import java.util.Iterator;
+import java.util.function.Function;
 
 import javax.swing.BorderFactory;
 import javax.swing.Box;
@@ -44,7 +45,6 @@ import javax.swing.ListSelectionModel;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.jmeter.config.Argument;
 import org.apache.jmeter.config.Arguments;
-import org.apache.jmeter.gui.GuiPackage;
 import org.apache.jmeter.gui.TestElementMetadata;
 import org.apache.jmeter.gui.util.HeaderAsPropertyRenderer;
 import org.apache.jmeter.testelement.TestElement;
@@ -63,7 +63,7 @@ import org.apache.jorphan.reflect.Functor;
 @TestElementMetadata(labelResource = "user_defined_variables")
 public class ArgumentsPanel extends AbstractConfigGui implements ActionListener {
 
-    private static final long serialVersionUID = 240L;
+    private static final long serialVersionUID = 241L;
 
     /** The title label for this component. */
     private JLabel tableLabel;
@@ -102,14 +102,13 @@ public class ArgumentsPanel extends AbstractConfigGui implements ActionListener 
     /** Button to show the detail of an argument*/
     private JButton showDetail;
 
-    /** Gui Package */
-    private transient GuiPackage guiPackage;
-
     /** Enable Up and Down buttons */
     private final boolean enableUpDown;
 
     /** Disable buttons :Detail, Add, Add from Clipboard, Delete, Up and Down*/
     private final boolean disableButtons;
+
+    private final Function<String[], Argument> argCreator;
 
     /** Command for adding a row to the table. */
     private static final String ADD = "add"; // $NON-NLS-1$
@@ -179,7 +178,7 @@ public class ArgumentsPanel extends AbstractConfigGui implements ActionListener 
      * @param label the title for the component.
      */
     public ArgumentsPanel(boolean disableButtons, String label) {
-        this(label, null, false, false, null, disableButtons);
+        this(label, null, false, false, null, disableButtons, null);
     }
 
     /**
@@ -199,7 +198,7 @@ public class ArgumentsPanel extends AbstractConfigGui implements ActionListener 
      * @param standalone is standalone
      */
     public ArgumentsPanel(String label, Color bkg, boolean enableUpDown, boolean standalone) {
-        this(label, bkg, enableUpDown, standalone, null, false);
+        this(label, bkg, enableUpDown, standalone, null, false, null);
     }
 
     /**
@@ -211,7 +210,20 @@ public class ArgumentsPanel extends AbstractConfigGui implements ActionListener 
      * @param model the table model to use
      */
     public ArgumentsPanel(String label, Color bkg, boolean enableUpDown, boolean standalone, ObjectTableModel model) {
-        this(label, bkg, enableUpDown, standalone, model, false);
+        this(label, bkg, enableUpDown, standalone, model, null);
+    }
+
+    /**
+     * Create a new ArgumentsPanel with a border and color background
+     * @param label text for label
+     * @param bkg background colour
+     * @param enableUpDown Add up/down buttons
+     * @param standalone is standalone
+     * @param model the table model to use
+     * @param argCreator function to create {@link Argument}s from Strings taken from clipboard
+     */
+    public ArgumentsPanel(String label, Color bkg, boolean enableUpDown, boolean standalone, ObjectTableModel model, Function<String[], Argument> argCreator) {
+        this(label, bkg, enableUpDown, standalone, model, false, argCreator);
     }
 
     /**
@@ -224,12 +236,28 @@ public class ArgumentsPanel extends AbstractConfigGui implements ActionListener 
      * @param disableButtons Remove all buttons
      */
     public ArgumentsPanel(String label, Color bkg, boolean enableUpDown, boolean standalone, ObjectTableModel model, boolean disableButtons) {
+        this(label, bkg, enableUpDown, standalone, model, disableButtons, null);
+    }
+
+    /**
+     * Create a new ArgumentsPanel with a border and color background
+     * @param label text for label
+     * @param bkg background colour
+     * @param enableUpDown Add up/down buttons
+     * @param standalone is standalone
+     * @param model the table model to use
+     * @param disableButtons Remove all buttons
+     * @param argCreator function to create {@link Argument}s from Strings taken from clipboard
+     */
+    public ArgumentsPanel(String label, Color bkg, boolean enableUpDown, boolean standalone, ObjectTableModel model,
+            boolean disableButtons, Function<String[], Argument> argCreator) {
         tableLabel = new JLabel(label);
         this.enableUpDown = enableUpDown;
         this.disableButtons = disableButtons;
         this.background = bkg;
         this.standalone = standalone;
         this.tableModel = model;
+        this.argCreator = argCreator;
         init();
     }
 
@@ -409,9 +437,6 @@ public class ArgumentsPanel extends AbstractConfigGui implements ActionListener 
      * Move a row down
      */
     private void moveDown() {
-        if(guiPackage != null){
-            guiPackage.setDirty(true);
-        }
         //get the selected rows before stopping editing
         // or the selected rows will be unselected
         int[] rowsSelected = table.getSelectedRows();
@@ -466,9 +491,6 @@ public class ArgumentsPanel extends AbstractConfigGui implements ActionListener 
      *  Move a row down
      */
     private void moveUp() {
-        if(guiPackage != null){
-            guiPackage.setDirty(true);
-        }
         //get the selected rows before stopping editing
         // or the selected rows will be unselected
         int[] rowsSelected = table.getSelectedRows();
@@ -504,14 +526,10 @@ public class ArgumentsPanel extends AbstractConfigGui implements ActionListener 
         }
     }
 
-
     /**
      * Remove the currently selected argument from the table.
      */
     protected void deleteArgument() {
-        if(guiPackage != null){
-            guiPackage.setDirty(true);
-        }
         GuiUtils.cancelEditing(table);
 
         int[] rowsSelected = table.getSelectedRows();
@@ -539,9 +557,6 @@ public class ArgumentsPanel extends AbstractConfigGui implements ActionListener 
      * Add a new argument row to the table.
      */
     protected void addArgument() {
-        if(guiPackage != null){
-            guiPackage.setDirty(true);
-        }
         // If a table cell is being edited, we should accept the current value
         // and stop the editing before adding a new row.
         GuiUtils.stopTableEditing(table);
@@ -597,13 +612,13 @@ public class ArgumentsPanel extends AbstractConfigGui implements ActionListener 
     }
 
     protected void addFromClipboard() {
-        if(guiPackage != null){
-            guiPackage.setDirty(true);
-        }
         addFromClipboard(CLIPBOARD_LINE_DELIMITERS, CLIPBOARD_ARG_DELIMITERS);
     }
 
     protected Argument createArgumentFromClipboard(String[] clipboardCols) {
+        if (argCreator != null) {
+            return argCreator.apply(clipboardCols);
+        }
         Argument argument = makeNewArgument();
         argument.setName(clipboardCols[0]);
         if (clipboardCols.length > 1) {
@@ -793,8 +808,6 @@ public class ArgumentsPanel extends AbstractConfigGui implements ActionListener 
 
         table.revalidate();
         sizeColumns(table);
-
-        guiPackage = GuiPackage.getInstance();
     }
 
     /**
